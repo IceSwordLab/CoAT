@@ -1,0 +1,1028 @@
+[
+  {
+    "question": "Discuss the transformation of higher education in the digital age: Innovations, disruptions, and future trends.",
+    "judge_rules": "评判规则:\n1.(本部分共8分) 技术创新：详细讨论在线学习、AI辅导和虚拟实验室等新技术对高等教育的影响；\n2.(本部分共7分) 传统模式冲击：分析传统高校面临的挑战与转型需求；\n3.(本部分共5分) 未来趋势预测：结合当前数据与趋势，提出未来教育模式的发展方向；\n4.(本部分共3分) 文字表达：要求论述逻辑严谨、语言专业且表达流畅。",
+    "total_score": 23
+  },
+  {
+    "question": "Evaluate the socio-economic implications of blockchain adoption in developing economies.",
+    "judge_rules": "评判规则:\n1.(本部分共6分) 案例运用：要求提供至少两个真实的区块链应用案例，说明其在发展中经济体中的实际影响；\n2.(本部分共8分) 数据对比：要求利用定量数据对比区块链带来的经济效益与潜在风险；\n3.(本部分共4分) 创新建议：提出至少一项新颖的政策建议或应用模式；\n4.(本部分共2分) 表达规范：要求语言清晰、逻辑严谨、无明显事实错误。",
+    "total_score": 20
+  },
+  {
+    "question": "Evaluate the effects of economic sanctions on authoritarian regimes: A multi-dimensional analysis.",
+    "judge_rules": "评判规则:\n1.(本部分共8分) 经济指标：使用定量数据分析制裁对目标国经济的影响；\n2.(本部分共6分) 政治后果：探讨制裁对国内政治局势和国际关系的双向影响；\n3.(本部分共5分) 历史案例：至少引用两次成功或失败的制裁案例进行对比；\n4.(本部分共2分) 论证质量：要求语言表达准确、论据充分、结构合理。",
+    "total_score": 21
+  },
+  {
+    "question": "Analyze the strategic challenges of managing global supply chain disruptions in the post-pandemic world.",
+    "judge_rules": "评判规则:\n1.(本部分共9分) 多维度论述：从物流、技术与政治三个角度分别分析各自面临的挑战，各角度论述完整得3分；\n2.(本部分共5分) 危机案例：引用2020-2023年内的真实供应链中断案例进行说明；\n3.(本部分共6分) 政策建议：针对挑战提出具体、可操作的解决方案；\n4.(本部分共3分) 表达与结构：论述条理清晰，语言表达准确无误。",
+    "total_score": 23
+  },
+  {
+    "question": "Analyze the intersection of cyber warfare and international law: How can nations deter state-sponsored cyberattacks?",
+    "judge_rules": "评判规则:\n1.(本部分共7分) 法律框架：详细讨论现有国际法及相关条约在网络空间的适用性；\n2.(本部分共6分) 技术解析：解析网络攻击的主要技术手段及其追踪难点；\n3.(本部分共6分) 策略建议：提出至少两项具有操作性的防御和遏制策略；\n4.(本部分共3分) 语言与逻辑：确保论述连贯、用词专业、无事实错误。",
+    "total_score": 22
+  },
+  {
+    "question": "如何评价近期全球供应链中断对各国经济的影响？哪些行业受影响最大？",
+    "judge_rules": "评判规则:\n1. **影响分析** (8分): \n   - 分析全球供应链中断对各国GDP、就业率和通胀率的影响。每涉及一个指标得2分。\n   - 加分项：引用近期统计数据或经济报告可再得2分。\n2. **行业评估** (10分): \n   - 评估制造业、科技业、服务业等主要行业所受影响。每涉及一个行业得2分。\n   - 加分项：提供具体企业案例或行业报告可再得2分。\n3. **应对措施** (5分): \n   - 讨论各国政府或企业为缓解供应链中断所采取的措施。每个具体措施得2分，最多得4分。\n   - 加分项：分析措施的潜在效果或风险可再得1分。\n4. **语言表达** (3分): \n   - 语言通顺 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 26
+  },
+  {
+    "question": "近期全球通胀上升对主要央行货币政策的影响是什么？",
+    "judge_rules": "评判规则:\n1. **通胀趋势分析** (8分): \n   - 描述近期全球通胀上升的趋势和主要驱动因素。每个因素得2分，最多得6分。\n   - 加分项：引用近期的通胀数据或经济分析可再得2分。\n2. **央行政策反应** (12分): \n   - 分析美联储、欧洲央行、日本央行等主要央行对通胀上升的政策反应。每个央行的分析得3分。\n   - 加分项：评估这些政策对全球经济的潜在影响可再得3分。\n3. **语言表达** (3分): \n   - 语言通顺 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 23
+  },
+  {
+    "question": "Considering China's focus on artificial intelligence during its recent legislative sessions, what are the potential economic and ethical implications of this emphasis?",
+    "judge_rules": "评判规则:\n1. **政策重点** (8分):\n   - 描述中国在最近立法会议上对人工智能的关注，包括主要政策和目标。每个方面2分，最多6分。\n   - 加分项：引用官方文件或权威媒体报道可再得2分。\n2. **经济影响** (10分):\n   - 分析这种对人工智能的重视可能带来的经济影响，包括对就业、产业升级和经济增长的影响。每个方面2分，最多6分。\n   - 加分项：提供具体案例或专家意见可再得2分。\n3. **伦理影响** (5分):\n   - 探讨这种人工智能发展对伦理的潜在影响，包括隐私、算法偏见和社会不平等。每个方面2分，最多4分。\n   - 加分项：引用相关研究或实际案例可再得1分。\n4. **语言表达** (3分):\n   - 语言流畅 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 26
+  },
+  {
+    "question": "墨西哥驻厄瓜多尔大使馆遇袭事件对国际外交关系有何影响？涉及哪些国际法问题？",
+    "judge_rules": "评判规则:\n1.(本部分共8分) 描述墨西哥驻厄瓜多尔大使馆遇袭事件的背景、起因、经过和直接后果，每涉及一个方面得一分。加分项：每个方面引用至少一个新闻报道或官方声明可再得一分；\n2.(本部分共10分) 分析此事件对国际外交关系的影响，包括对墨西哥、厄瓜多尔及其他拉美国家的外交关系影响，每涉及一个国家得一分。加分项：a. 若分析该国的外交反应、政策调整可再得一分；b. 若引用至少一个相关报道或专家评论可再得一分；\n3.(本部分共5分) 探讨事件涉及的国际法问题，包括对《维也纳外交关系公约》的潜在违反等。加分项：若引用国际法条文或专家解读可再得一分；\n4.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 26
+  },
+  {
+    "question": "How does the recent escalation between Israel and Hezbollah impact the geopolitical landscape of the Middle East? How have various countries responded?",
+    "judge_rules": "评判规则：\n1. **冲突背景** (8分)：\n   - 描述以色列与真主党冲突升级的原因和主要事件。每个方面2分，最多6分。\n   - 加分项：引用最新新闻报道或官方声明可再得2分。\n2. **地区影响** (10分)：\n   - 分析此冲突对中东地区地缘政治格局的影响，包括对黎巴嫩、叙利亚、伊朗和沙特阿拉伯等国的影响。每涉及一个国家得2分，最多8分。\n   - 加分项：提供具体案例或专家意见可再得2分。\n3. **国际反应** (5分)：\n   - 描述国际社会的反应，包括联合国、美国和欧盟等主要国际组织和国家的立场和行动。每涉及一个主体得1分，最多3分。\n   - 加分项：引用官方声明或权威媒体报道可再得2分。\n4. **语言表达** (3分)：\n   - 语言流畅 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 26
+  },
+  {
+    "question": "What are the potential consequences of China's recent economic policies on its domestic market and global trade partnerships?",
+    "judge_rules": "评判规则:\n1. **政策描述** (8分):\n   - 描述中国近期的经济政策，包括刺激消费和支持私营企业的措施。每个方面2分，最多6分。\n   - 加分项：引用官方文件或权威媒体报道可再得2分。\n2. **国内影响** (10分):\n   - 分析这些政策对中国国内市场的潜在影响，包括消费增长和市场信心等方面。每个方面2分，最多6分。\n   - 加分项：提供具体数据或专家意见可再得2分。\n3. **国际影响** (5分):\n   - 探讨这些政策对中国全球贸易伙伴关系的影响，包括出口和进口趋势。每个方面2分，最多4分。\n   - 加分项：引用国际贸易数据或专家分析可再得1分。\n4. **语言表达** (3分):\n   - 语言流畅 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 26
+  },
+  {
+    "question": "How does AI-powered synthetic biology impact global food security? Which nations lead in CRISPR+AI agricultural innovation?",
+    "judge_rules": "评判规则:\n1.(10分) 分析必须包含：基因专利垄断、生态风险、南北技术鸿沟、粮食定价权转移、伦理审查差异五方面。每方面2分，需引用具体品种（如中国抗盐碱水稻）；\n2.(15分) 对比巴西、荷兰、以色列、印度尼西亚、澳大利亚等国家的竞争策略。每个国家3分，需说明生物样本库建设（如挪威末日种子库）、AI育种平台（如Benson Hill）、政策限制（欧盟GMO禁令）三要素；\n3.(3分) 正确使用农业科技专业术语（如全基因组选择）得1分/项",
+    "total_score": 28
+  },
+  {
+    "question": "近期全球科技巨头的反垄断调查对行业竞争格局有何影响？",
+    "judge_rules": "评判规则:\n1. **调查背景** (8分): \n   - 介绍近期针对科技巨头的反垄断调查案例。每个案例得2分，最多得6分。\n   - 加分项：引用官方声明或权威媒体报道可再得2分。\n2. **影响分析** (12分): \n   - 分析这些调查对科技行业的竞争格局、创新能力和市场进入壁垒的影响。每个方面得3分。\n   - 加分项：提供具体企业或市场数据支持论点可再得3分。\n3. **语言表达** (3分): \n   - 语言通顺 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 23
+  },
+  {
+    "question": "What geopolitical risks arise from AI-controlled undersea internet cables? How do maritime powers ensure data sovereignty?",
+    "judge_rules": "评判规则:\n1.(10分) 需论及：海底测绘竞争、故障溯源困境、数据截获风险、维修权争夺、生态监测盲区五维度。每维度2分，需引用具体电缆系统（如HMNTS）；\n2.(15分) 分析美国、日本、澳大利亚、挪威、阿联酋等国家的战略布局。每个国家3分，需比较海底机器人（如法国Alister）、法律管辖权（如国际海底管理局）、军民两用技术（如声呐监测）三方面；\n3.(3分) 提出基于卫星互联网的替代方案可行性分析得3分",
+    "total_score": 28
+  },
+  {
+    "question": "What are the implications of AI-curated social media algorithms on global cultural hegemony? How do nations regulate algorithmic cultural exports?",
+    "judge_rules": "评判规则:\n1.(10分) 需分析：文化同质化、数字殖民主义、本土内容扶持、青少年认知塑造、文化遗产数字化五个层面。每层面2分，需引用平台案例（如TikTok推荐机制）；\n2.(15分) 比较韩国、土耳其、墨西哥、埃及、马来西亚等国家的政策。每个国家3分，需涵盖算法透明度（如欧盟DSA）、文化配额（如法国Netflix规则）、本土平台扶持（如俄罗斯VK）三方面；\n3.(3分) 提出基于UNESCO框架的治理方案得3分",
+    "total_score": 28
+  },
+  {
+    "question": "How does AI-enhanced climate engineering affect global governance systems? Which countries dominate geoengineering IP portfolios?",
+    "judge_rules": "评判规则:\n1.(12分) 必须包含：气候债务争议、太阳辐射管理伦理、碳去除认证、天气武器化猜想、极地工程特权五方面。每层面2分，需引用技术案例（如MCB海洋云增亮）；\n2.(10分) 评估冰岛、新西兰、智利、肯尼亚、瑞典等国家的技术地位。每个国家2分，需分析专利分布（如Climeworks专利）、自然禀赋（如冰岛地热）、国际条约参与度（如巴黎协定第六条）三要素；\n3.(3分) 准确解释SRM/CDR技术路线差异得3分",
+    "total_score": 25
+  },
+  {
+    "question": "How should we view the role of artificial intelligence in contemporary international competition? Which countries hold the leading advantages in this field?",
+    "judge_rules": "评判规则：\n1. **人工智能在各领域的影响** (10分)：\n   - 讨论人工智能在经济影响、军事安全、技术领导力、伦理监管和外交软实力等多个领域的影响。每涉及一个领域得1分。\n   - 加分项：每个领域引用至少一个真实案例论证观点可再得1分。\n2. **领先国家分析** (15分)：\n   - 列举主要的领先国家，包括美国、中国、欧洲、俄罗斯和日本等。每涉及一个国家得1分。\n   - 加分项：a. 对每个国家从优势、劣势和策略三个方面进行分析可再得1分；b. 每个国家的介绍中引用至少一个真实案例论证观点可再得1分。\n3. **语言表达** (3分)：\n   - 语言流畅 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 28
+  },
+  {
+    "question": "近期全球气候变化对农业生产和粮食安全的影响是什么？",
+    "judge_rules": "评判规则:\n1. **气候变化影响** (10分): \n   - 分析气候变化对农业生产的影响，包括作物产量、种植区域变化等。每个方面得2分。\n   - 加分项：引用最新的农业研究或气候报告可再得2分。\n2. **粮食安全** (10分): \n   - 探讨气候变化对全球粮食安全的影响，包括粮食价格、供应链稳定性等。每个方面得2分。\n   - 加分项：提供具体国家或地区的案例可再得2分。\n3. **应对策略** (5分): \n   - 讨论各国政府或国际组织为应对这些挑战所采取的措施。每个措施得2分，最多得4分。\n   - 加分项：评估措施的潜在效果或不足可再得1分。\n4. **语言表达** (3分): \n   - 语言通顺 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 28
+  },
+  {
+    "question": "What are the ethical risks of quantum computing breakthroughs in military applications? How do major powers regulate quantum technology exports?",
+    "judge_rules": "评判规则:\n1.(10分) 需论及密码学革命、自主武器系统、情报监控、战略稳定性、技术扩散五个层面。每层面2分\n2.(10分) 评估美国、欧盟、俄罗斯、以色列、韩国等国家的管控体系。每个国家2分，需比较立法框架（如美国NIST标准）、企业合规（如IBM量子云）、军民融合程度三要素；\n3.(3分) 预测2030年前可能的技术突破点（如量子雷达）并评估影响，每项合理预测得1分",
+    "total_score": 23
+  },
+  {
+    "question": "What are the latest applications of artificial intelligence in the medical field? How do they impact medical ethics and patient privacy?",
+    "judge_rules": "评判规则：\n1. **人工智能在医疗领域的应用** (8分)：\n   - 介绍人工智能在医疗领域的最新应用，包括疾病诊断、个性化治疗和手术辅助等。每个应用领域2分，最多6分。\n   - 加分项：引用最新研究成果或实际案例可再得2分。\n2. **伦理影响** (8分)：\n   - 分析这些应用对医疗伦理的影响，包括知情同意和算法偏见等问题。每个方面2分，最多6分。\n   - 加分项：提供专家意见或实际案例可再得2分。\n3. **隐私影响** (5分)：\n   - 探讨人工智能在医疗中的应用对患者隐私的影响，包括数据安全和隐私泄露风险等。每个方面2分，最多4分。\n   - 加分项：引用相关法律法规或实际案例可再得1分。\n4. **语言表达** (3分)：\n   - 语言流畅 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 24
+  },
+  {
+    "question": "How does AI-accelerated drug discovery reshape the global pharmaceutical industry chain? Which countries are building AI-biotech alliances?",
+    "judge_rules": "评判规则:\n1.(10分) 论述必须包含：专利悬崖应对、CRO产业转型、临床实验伦理、原料药定价权、南南技术转移五方面。每方面2分，需引用企业案例（如英矽智能INS018_055）；\n2.(10分) 评估瑞士、新加坡、古巴、南非、加拿大等国家的竞争优势。每个国家2分，需分析生物数据库（如UK Biobank）、算力基础设施（如日本富岳）、政策突破（如澳大利亚AI审批快车道）三要素；\n3.(3分) 准确预测3种AI驱动的新药研发模式得3分",
+    "total_score": 23
+  },
+  {
+    "question": "What are the global political implications of Trump's reinauguration? What is noteworthy about his inauguration?",
+    "judge_rules": "评判规则：\n1. **全球政治影响** (10分)：\n   - 分析特朗普再次就职对外交调整、能源政策、欧洲安全、国际贸易和中东政策等方面的影响。每涉及一个方面得1分。\n   - 加分项：每个方面引用至少一个真实案例论证观点可再得1分。\n2. **就职典礼的显著特点** (6分)：\n   - 讨论就职典礼的独特性，包括室外仪式、签署行政命令和科技公司CEO出席等方面。每涉及一个方面得1分。\n   - 加分项：每个方面详细分析其政治影响可再得1分。\n3. **语言表达** (3分)：\n   - 语言流畅 (1分)\n   - 论述详细 (1分)\n   - 无事实错误 (1分)",
+    "total_score": 19
+  },
+  {
+    "question": "What cybersecurity challenges does AI-enabled deepfake technology pose to democratic elections? How do different countries legislate against political deepfakes?",
+    "judge_rules": "评判规则:\n1.(10分) 需涵盖：选民认知操纵、选举基础设施风险、跨国信息战、司法取证难度、媒体公信力危机五维度。每维度2分，需引用近年选举案例（如阿根廷2023大选）；\n2.(15分) 评估美国、印度、菲律宾、尼日利亚、法国等国家的应对措施。每个国家3分，需分析检测技术（如Adobe内容凭证）、法律追溯（如新加坡POFMA）、公民教育三方面；\n3.(3分) 提出可落地的解决方案，每项得1分",
+    "total_score": 28
+  },
+  {
+    "question": "Examine the impact of digital transformation on international trade dynamics. How are nations adapting their policies to manage the challenges and opportunities of digitization?",
+    "judge_rules": "评判规则:\n1. （10分）回答应包含案例分析、统计数据支撑及理论评论，不拘泥于单一维度，每个维度2分；\n2. （12分）针对涉及的国家（如美国、欧盟、中国、印度、巴西），要求讨论其数字化战略和政策调整，且每个国家至少需引用一项实际政策或事件；每提及一个国家和对应的战略或政策可得4分\n3. （3分）分析中鼓励探讨技术风险与网络安全问题，语言表达及逻辑清晰均计分",
+    "total_score": 25
+  },
+  {
+    "question": "Analyze the role of big data analytics in shaping modern economic policies. What are the ethical and operational challenges that governments face in leveraging these technologies?",
+    "judge_rules": "评判规则:\n1. （10分）答案应讨论大数据在经济决策、市场监测、公共服务和隐私保护中的具体应用，允许案例与理论并举；每提及一个应用、案例或理论得2分，\n2. （12分）对涉及的国家（如美国、欧盟、中国、印度、新加坡），需详细描述其数据战略、伦理争议与实践案例；每个国家和对应描述得4分\n3. （3分）分析中要求展示数据使用的优势与局限性，论证逻辑严密",
+    "total_score": 25
+  },
+  {
+    "question": "Examine the impact of emerging transportation technologies (e.g., autonomous vehicles, hyperloop) on international trade and urban development. How are different countries preparing for these transformative changes?",
+    "judge_rules": "评判规则:\n1. （10分）回答应综合分析交通技术革新对经济增长、城市规划、环境保护和社会结构的影响，允许多角度讨论；每个角度2分\n2. （12分）针对主要国家（如美国、中国、德国、日本、韩国），需阐述其在研发、政策支持和基础设施建设方面的措施，每个国家至少引用一个真实案例；每个国家和对应描述得4分；\n3. （3分）分析中应兼顾技术前瞻性与现实挑战，语言表达流畅且逻辑严谨",
+    "total_score": 28
+  },
+  {
+    "question": "How does the rise of renewable energy influence geopolitical alliances and global power shifts? Evaluate the responses from key players in this sector.",
+    "judge_rules": "评判规则:\n1. （6分）答案需包含案例研究、数据分析和政策评论，允许引入跨领域视角；每个方面2分\n2. （12分）针对主要国家（如美国、中国、德国、印度、沙特阿拉伯），要求描述其在可再生能源领域的优势、挑战及近期实际行动；每个国家至少引用一个真实案例；每个国家和对应描述得4分；\n3.（3分） 分析中应至少涵盖一次国际合作或冲突的实例，体现多角度综合评价；",
+    "total_score": 21
+  },
+  {
+    "question": "What are the impacts of AI-driven automated diplomacy on traditional diplomatic practices? How do foreign ministries integrate NLP technologies?",
+    "judge_rules": "评判规则:\n1.(10分) 需分析：实时舆情监测、外交辞令生成、多边谈判支持、文化误读风险、外交档案数字化五层面。每层面2分，需引用系统案例（如中国外交部AI翻译）；\n2.(15分) 对比英国、日本、巴西、沙特阿拉伯、埃塞俄比亚等国家的数字化进程。每个国家3分，需评估语料库建设（如欧盟多语言模型）、危机响应机制（如乌克兰数字使馆）、传统外交官转型三方面；\n3.(3分) 提出防止算法偏见的外交训练方案得3分",
+    "total_score": 28
+  },
+  {
+    "question": "Evaluate the strategic importance of space exploration in advancing national security and international prestige. Which countries are emerging as major players in the space race?",
+    "judge_rules": "评判规则:\n1. （12分）答案需从军事、经济、科技和外交等角度分析太空探索的重要性，允许多角度深入探讨；每个方面3分\n2. （12分）针对主要国家（如美国、中国、俄罗斯、欧盟、日本），需讨论其近期太空计划及战略布局，并引用至少一则实际任务案例；每个国家和对应描述得4分；\n3. （3分）分析中应涵盖太空探索中的伦理和资源争夺问题，语言表述要有深度；",
+    "total_score": 27
+  },
+  {
+    "question": "How will AI-optimized pandemic prediction models reshape global health governance? Which countries are building biological AI early warning systems?",
+    "judge_rules": "评判规则:\n1.(18分) 需包含：病毒变异预测误差、疫苗分配算法偏见、野生动物交易监测、基因数据主权、WHO改革阻力等多方面。每项3分，需引用GISAID数据库AI分析案例；\n2.(6分) 评估以色列、新加坡、卢旺达、越南、芬兰等国家的预警系统。每国1.5分，需说明多模态数据融合（如以色列DetectED）、基层医疗AI部署（如卢旺达无人机采样）等要素；\n3.(3分) 提出基于代谢组学AI模型的跨物种传播预测框架得3分",
+    "total_score": 27
+  },
+  {
+    "question": "What are the geopolitical impacts of AI-optimized rare earth supply chains? Which countries are developing alternative material discovery platforms?",
+    "judge_rules": "评判规则:\n1.(18分) 必须包含：深海采矿机器人竞赛、回收率预测算法专利战、材料替代品发现速度、加工污染AI监控、国际定价权转移多方面。每项3分，需引用MP Materials智能分选系统案例；\n2.(6分) 分析澳大利亚、刚果(金)、格陵兰、马来西亚、越南的战略。每国1.5分，需说明高熵合金AI设计（如Citrine Informatics）、尾矿库数字孪生（如中国稀土集团）等要素；\n3.(3分) 构建稀土供应链弹性指数模型得3分",
+    "total_score": 27
+  },
+  {
+    "question": "How does AI-driven space resource mining challenge existing international space laws? Which countries are establishing strategic advantages in extraterrestrial AI applications?",
+    "judge_rules": "评判规则:\n1.(10分) 需分析：月球水资源产权争议、小行星采矿权分配、轨道频谱AI管理、太空军事化风险、商业航天监管真空。每项2分，需引用案例（如NASA Artemis协议）；\n2.(15分) 评估美国、卢森堡、阿联酋、印度、巴西等国家的太空AI战略。每国3分，需包含卫星自主系统（如ESA的OPS-SAT）、法律创新（如卢森堡太空资源法）、公私合作模式（如SpaceX星链AI避撞）三要素；\n3.(3分) 提出基于区块链的太空资源溯源系统设计得3分",
+    "total_score": 28
+  },
+  {
+    "question": "How will AI-driven energy transition reshape global geopolitical patterns? Which countries are leading in AI-powered renewable energy systems?",
+    "judge_rules": "评判规则:\n1.(10分) 论述需涵盖经济重组、环境外交、资源地缘政治、技术标准竞争、跨国合作机制五个维度。每个维度得1分，每个维度附加真实案例（如中国光伏+AI运维案例）可再得1分；\n2.(15分) 分析领先国家/地区：如美国、中国、德国、印度、沙特。每个国家得1分，a.从技术专利、政策支持、资源适配三方面分析得额外1分；b.引用具体项目（如美国Neom智慧城市）得额外1分；\n3.(3分) 数据时效性（2023年后）、逻辑连贯性、专业术语准确性各1分",
+    "total_score": 28
+  },
+  {
+    "question": "How does AI-enhanced cognitive warfare redefine modern propaganda systems? Analyze the technological arms race in information operations.",
+    "judge_rules": "评判规则:\n1.(20分) 需论及：神经语言学编程、情感计算舆论引导、深度伪造文化符号、记忆植入技术伦理、跨平台叙事一致性五大前沿领域。每项4分，需分析乌克兰战争中的AI生成内容案例；\n2.(4分) 评估俄罗斯、伊朗、委内瑞拉、缅甸等国家的技术能力。每主体1分，需比较GAN生成方言视频、多账号协同算法等工具；\n3.(3分) 提出基于EEG检测的认知防御系统得3分",
+    "total_score": 27
+  },
+  {
+    "question": "What cybersecurity risks emerge from AI-controlled industrial metaverse platforms? How do manufacturing powers regulate digital twin security?",
+    "judge_rules": "评判规则:\n1.(15分) 必须分析：物理-数字攻击面扩展、供应链孪生体劫持、工业知识图谱窃取、虚拟工厂社会工程、跨平台漏洞继承五维度。每项3分，需引用西门子NX MCD被攻破事件；\n2.(12分) 对比德国、韩国、墨西哥、沙特、马来西亚等国家的监管框架。每国2分，需涵盖数字线程加密标准（如ISO 23247）、操作员脑机接口认证、工业元宇宙保险产品三要素；\n3.(3分) 设计工业数字孪生安全成熟度模型得3分",
+    "total_score": 30
+  },
+  {
+    "question": "Discuss the transformation of global media landscapes in the digital age. How do changes in media technology affect international public opinion and policy-making?",
+    "judge_rules": "评判规则:\n1. （8分）答案应涵盖技术变革、市场趋势、政治影响与文化变迁，鼓励批判性思维；每个方面2分\n2. （12分）针对主要国家（如美国、英国、中国、俄罗斯、印度），需描述其媒体监管与创新策略，每个国家至少引用一个真实案例；每个国家和案例4分；\n3. （3分）要求结合最新调查数据和权威报道，对比分析不同模式；",
+    "total_score": 23
+  },
+  {
+    "question": "Assess the impact of international environmental policies on global trade and national competitiveness. How do different regions adapt to new sustainability standards?",
+    "judge_rules": "评判规则:\n1. （8分）必须探讨环境保护、贸易调整、产业升级和政策响应四个关键维度，鼓励举例说明；\n2. （12分）针对主要区域或国家（如美国、欧盟、中国、巴西、印度）分别描述其适应策略、面临挑战及成功案例，每个区域至少引用一项真实数据；每个国家和案例4分；\n3. （3分）要求数据详实、论点明确、语言严谨，条理清晰；",
+    "total_score": 30
+  },
+  {
+    "question": "What are the military implications of AI-enabled directed energy weapons? How do major powers address beam control algorithm proliferation risks?",
+    "judge_rules": "评判规则:\n1.(20分) 需涵盖：大气扰动补偿模型、目标识别误判率、能源效率突破路径、反卫星武器公约漏洞、民用通信干扰争议五方面。每项4分；\n2.(6分) 对比中国、美国、土耳其、印度、法国等国家的研发进展。每国2分，需分析相控阵算法（如THAAD系统）、高能微波民用转化（如华为无线充电）等；\n3.(3分) 提出基于联邦学习的多国光束轨迹监测机制得3分",
+    "total_score": 29
+  },
+  {
+    "question": "What are the sovereignty challenges posed by AI-managed digital special economic zones? Analyze emerging virtual governance models.",
+    "judge_rules": "评判规则:\n1.(20分) 需论及：算法税收管辖权、虚拟居民身份认证、智能合约法律主体地位、数据领土边界定义、DAO组织监管冲突五方面。每项4分；\n2.(3分) 评估爱沙尼亚e-Residency、韩国元宇宙特别市、巴巴多斯数字游民签证三模式的异同，每项1分；\n3.(3分) 设计基于NFT的数字主权徽章系统得3分",
+    "total_score": 26
+  },
+  {
+    "question": "Discuss the role of artificial intelligence in shaping global cultural exchange and soft power. How do various countries leverage digital media to boost their cultural influence?",
+    "judge_rules": "评判规则:\n1. （12分）答案应从文化输出、数字传播、社会影响与政策支持等角度展开论述，允许案例与理论并重，每个角度3分；\n2. （12分）对涉及的国家（如美国、中国、韩国、法国、英国）分别说明其优势、挑战及具体策略，每个国家至少引用一个实际案例；每个国家和案例4分；\n3. （3分）分析中要求结合最新媒体报道和权威数据，语言通顺、论据充分；",
+    "total_score": 28
+  },
+  {
+    "question": "Investigate the influence of global educational trends on technological innovation and workforce competitiveness. How are countries reforming their education systems to meet future challenges?",
+    "judge_rules": "评判规则:\n1. （12分）答案应涵盖教育改革、科技创新、就业竞争力和国际合作四个方面，允许引入具体案例和统计数据；每个方面3分；\n2. （12分）针对主要国家（如美国、中国、芬兰、日本、加拿大）分别描述其教育政策调整、成功经验及存在不足，每个国家需至少引用一项实际改革案例；每个国家和案例4分；\n3. （3分）分析要求论据充分、语言流畅、数据准确；",
+    "total_score": 28
+  },
+  {
+    "question": "Examine the influence of 5G and advanced telecommunications on international economic development and security. Which countries are leading and what challenges do they face?",
+    "judge_rules": "评判规则:\n1. （12分）回答需涵盖技术革新、经济推动、国家安全与监管挑战等多个角度，允许跨领域综合讨论；每个方面3分；\n2. （12分）针对主要国家（如美国、中国、韩国、日本、欧盟）详细阐述各自的优势、劣势及战略部署，每个国家需引用至少一则实际案例；每个国家和案例4分；\n3. （3分）分析要求结合最新行业报告和市场数据，语言表达清晰；",
+    "total_score": 27
+  },
+  {
+    "question": "How will AI-curated personalized education systems disrupt global talent competition patterns? Compare national strategies in AI education infrastructure.",
+    "judge_rules": "评判规则:\n1.(15分) 需分析：认知能力数字孪生、教育数据跨境流动、文化价值观植入风险、技能认证体系重构、教育平权算法悖论五维度。每项3分，需引用可汗学院AI导师系统；\n2.(8分) 评估爱沙尼亚、芬兰、阿联酋、乌拉圭、泰国等国家的试点项目。每国2分，需包含脑科学API接口（如新加坡MindX）、元宇宙教室（如韩国Metaversity）、学习分析仪表盘三要素；\n3.(3分) 设计防意识形态渗透的内容过滤算法得3分",
+    "total_score": 26
+  },
+  {
+    "question": "Examine the impact of trade wars on global supply chains in the context of rapid digital transformation. What are the risks and opportunities?",
+    "judge_rules": "评判规则:\n1. 必须结合数据分析和具体案例（例如中美贸易摩擦）来论证供应链变化；（12分）\n2. 分析中应涉及风险评估和机会捕捉两个方面，各自论述详实；（8分）\n3. 需提供政策建议或战略应对方案，体现实用性和创新性；（6分）\n4. 语言要求准确、论点清晰；（2分）",
+    "total_score": 28
+  },
+  {
+    "question": "Discuss the influence of cyber security incidents on international business confidence and regulatory reforms. What lessons can be learned?",
+    "judge_rules": "评判规则:\n1. 论述需基于真实案例（如知名数据泄露事件）的分析；（10分）\n2. 答案中应涉及商业信心、监管调整和技术防护三方面的具体论证；（10分）\n3. 对未来防范策略需提出建设性建议，展现战略思考；（6分）\n4. 表达需简洁明确，论点结构清晰；（4分）",
+    "total_score": 30
+  },
+  {
+    "question": "Examine the effects of cultural globalization on national identities. How do digital media and international migration contribute to cultural integration or fragmentation?",
+    "judge_rules": "评判规则:\n1. 回答应从文化交流、媒体影响和移民现象三个角度展开；（12分）\n2. 必须结合历史案例和当代实例进行分析；（8分）\n3. 需要讨论文化同质化与多样性保护之间的平衡；（6分）\n4. 语言要求清晰、有逻辑性；（4分）",
+    "total_score": 30
+  },
+  {
+    "question": "How will AI-optimized hypersonic missile systems alter nuclear deterrence theory? Compare the development trajectories of major powers.",
+    "judge_rules": "评判规则:\n1.(10分) 必须涉及：预警时间压缩、二次打击可信度、军控核查困境、战区冲突升级风险、AI误判概率五方面。需引用具体武器系统（如俄罗斯锆石导弹）；\n2.(10分) 分析美国、俄罗斯、中国、朝鲜、英国等国家的研发态势。每个国家2分，需包含风洞模拟水平（如中国JF-22）、材料突破（如美国超高温陶瓷）、算法优势（如强化学习制导）三要素；\n3.(3分) 准确解释军事术语（如MIRV分导技术）每项得1分",
+    "total_score": 23
+  },
+  {
+    "question": "Discuss the impact of international intellectual property regimes on innovation and economic growth in the digital age. How are different countries adjusting their policies?",
+    "judge_rules": "评判规则:\n1.（8分） 回答需探讨知识产权保护、技术转移、创新激励与跨国合作四个维度，允许结合案例与理论进行论证；\n2. （12分）针对主要国家（如美国、中国、欧盟、日本、韩国）分别阐述其政策优势、面临的挑战及未来改革方向，每个国家至少引用一项实际政策或争议案例；每个国家和案例4分；\n3. （3分）论述中要求引用最新研究成果或官方数据，语言表达清晰、结构严谨；",
+    "total_score": 23
+  },
+  {
+    "question": "Analyze the role of big data in transforming international business strategies. How do privacy concerns impact global economic integration?",
+    "judge_rules": "评判规则:\n1. 分析需关注数据驱动商业模式、隐私保护及法律监管；（10分）\n2. 至少引用一个国际商业案例和一个监管实例；（8分）\n3. 论述中应有独立观点和数据支持；（5分）\n4. 语言表达要求通顺流畅；（3分）",
+    "total_score": 26
+  },
+  {
+    "question": "How does AI-driven ocean plastic cleanup technology redistribute environmental responsibilities? Which nations lead in marine AI robotics?",
+    "judge_rules": "评判规则:\n1.(15分) 必须涉及：塑料溯源区块链系统、潮汐能供电AI船队、生态修复效果验证、渔业权重新划分、碳信用计算争议五维度。每项3分，需分析The Ocean Cleanup项目AI路径优化；\n2.(6分) 评估荷兰、日本、智利、加纳、马尔代夫等国家的技术路线。每国1.5分，需比较声呐识别算法（如Clear Blue Sea）、生物降解材料数据库等；\n3.(3分) 构建塑料信用交易市场模型得3分",
+    "total_score": 24
+  },
+  {
+    "question": "How do emerging technologies affect global labor markets and income inequality?",
+    "judge_rules": "评判规则:\n1. 论述要求结合全球统计数据和经济理论，分析技术进步对劳动市场的正面和负面影响；（10分）\n2. 必须引用至少两个国家的实际案例，展示不同发展阶段的具体影响；（8分）\n3. 分析中需探讨政策应对措施及未来趋势预测；（6分）\n4. 语言表达要求逻辑严谨、结构清晰，无歧义；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Evaluate the influence of social media on international diplomacy and soft power.",
+    "judge_rules": "评判规则:\n1. 必须讨论社交媒体对国际沟通、公共外交及形象塑造的影响；（10分）\n2. 需引用具体国家案例，说明不同国家利用社交媒体提升软实力的实践；（8分）\n3. 分析中应包含数据支持和政策评论；（6分）\n4. 文字表达要求精准、观点鲜明；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Evaluate the evolution of cyber warfare tactics and international law in the digital era. What are the implications for global security?",
+    "judge_rules": "评判规则:\n1. （8分）答案应从技术进步、法律约束、国家战略与国际合作四个方面展开，允许加入案例和理论分析；每个方面2分；\n2. （12分）针对涉及的国家或国际组织（如美国、中国、俄罗斯、北约、联合国）分别讨论其政策、优势及不足，每项至少引用一例实际事件；每个国家和案例4分；\n3. （3分）论述中要求引用最新国际法规或官方声明，语言流畅、逻辑严谨；",
+    "total_score": 23
+  },
+  {
+    "question": "Discuss the impact of emerging fintech innovations on global banking and financial stability.",
+    "judge_rules": "评判规则:\n1. 必须探讨金融科技如何改变传统银行业务模式及风险管理；（10分）\n2. 分析中需引用至少一个金融市场案例，说明科技创新带来的机遇与挑战；（8分）\n3. 需涵盖监管反应和政策调整，并提供数据支持；（6分）\n4. 语言要求逻辑清晰、表达准确；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Explore the impact of emerging financial technologies, such as blockchain and digital currencies, on international monetary policies. What challenges do regulators face?",
+    "judge_rules": "评判规则:\n1. 回答需详细阐述区块链技术和数字货币对传统金融体系的冲击；（12分）\n2. 必须结合国际监管案例（如欧盟GDPR、美国SEC政策）进行讨论；（8分）\n3. 分析中应提出至少一项创新监管建议，体现未来视角；（6分）\n4. 语言要求清晰、专业；（4分）",
+    "total_score": 30
+  },
+  {
+    "question": "Evaluate the role of international collaborations in space exploration for advancing scientific discovery.",
+    "judge_rules": "评判规则:\n1. 必须讨论国际合作在空间探索中的作用，包括科研、技术共享与资金投入；（10分）\n2. 分析中应引用至少一个多国合作项目案例，并评估其成效；（8分）\n3. 需提出对未来合作模式的展望，体现战略眼光；（6分）\n4. 语言要求准确、结构严谨，无空泛论调；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Examine the influence of global trade policies on the diffusion of renewable energy technologies.",
+    "judge_rules": "评判规则:\n1. 必须讨论全球贸易政策如何影响可再生能源技术的扩散与应用，涵盖经济和政治因素；（10分）\n2. 分析中应引用至少两个国家或区域的政策案例，进行比较分析；（8分）\n3. 需讨论技术扩散过程中的主要障碍和促进因素，并提出改进建议；（6分）\n4. 语言要求清晰、逻辑严密、数据充分；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Assess the impact of recent cryptocurrency market fluctuations on global financial regulation and international monetary policy.",
+    "judge_rules": "评判规则:\n1. 必须分析数字货币波动对传统金融市场和监管框架的冲击；（12分）\n2. 分析中需引用至少一个近期重大监管行动或市场事件；（8分）\n3. 应讨论未来监管趋势和国际协调机制；（4分）\n4. 表达要求严谨、数据支持充分；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "How have recent geopolitical tensions, including escalating US-China trade disputes, reshaped global supply chains?",
+    "judge_rules": "评判规则:\n1. 必须从贸易摩擦、物流调整和区域经济重构三个方面进行深入分析；（12分）\n2. 分析中需引用至少一个近期发生的贸易争端案例；（8分）\n3. 需讨论供应链多元化和风险缓解策略；（4分）\n4. 文字要求表达清晰、论据充分；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Analyze how renewable energy policies are influencing international climate negotiations in light of recent extreme weather events and heightened environmental activism.",
+    "judge_rules": "评判规则:\n1. 必须探讨极端天气对政策制定的推动作用及国际谈判中的策略调整；（12分）\n2. 分析中需结合至少一例近期极端天气事件对政策变革的直接影响；（8分）\n3. 应提出对可再生能源推广的政策建议和未来展望；（4分）\n4. 语言要求流畅、论据严密；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Discuss the transformation of international trade due to the adoption of blockchain technologies.",
+    "judge_rules": "评判规则:\n1. 分析需详细说明区块链技术如何重塑跨境交易、供应链管理和信任机制；（12分）\n2. 必须引用至少一项国际贸易案例或企业应用实例；（8分）\n3. 论述中应探讨技术推广中的监管挑战与机遇；（6分）\n4. 文字表达要求逻辑清晰、论据充分；（4分）",
+    "total_score": 30
+  },
+  {
+    "question": "Examine the role of cybersecurity threats in shaping international diplomatic strategies.",
+    "judge_rules": "评判规则:\n1. 必须讨论网络安全风险如何影响国家间的外交互动和战略决策；（10分）\n2. 分析中应引用至少两个网络攻击或数据泄露事件作为案例；（8分）\n3. 论述中需探讨应对措施、国际合作和法律监管的现状；（6分）\n4. 语言要求论据充分、结构清晰，具有学术性；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Analyze the influence of artificial intelligence on global labor markets and economic inequality.",
+    "judge_rules": "评判规则:\n1. 论述需涵盖AI技术对就业结构、工资水平和技能需求的影响；（12分）\n2. 分析中必须引用具体数据和至少两个国家的案例比较；（8分）\n3. 应讨论可能的政策干预措施以缓解经济不平等；（6分）\n4. 语言要求严谨、逻辑严密，具有前瞻性；（4分）",
+    "total_score": 30
+  },
+  {
+    "question": "Examine the evolution of energy geopolitics with the rapid expansion of renewable energy investments.",
+    "judge_rules": "评判规则:\n1. 必须讨论传统能源与可再生能源之间的竞争与合作关系；（10分）\n2. 分析中应引用至少两个国家的政策转型案例和市场数据；（8分）\n3. 论述中需评估能源转型对国际关系及经济安全的影响；（6分）\n4. 语言表达要求条理清晰、论据充实；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "Discuss the role of international organizations in managing global migration crises amid economic uncertainty.",
+    "judge_rules": "评判规则:\n1. 分析需涵盖国际组织（如联合国、国际移民组织）在协调跨国移民问题上的作用；（12分）\n2. 必须结合至少一个近期移民危机的案例，分析各方应对措施；（8分）\n3. 论述中应提出对现有国际合作机制的改进建议；（6分）\n4. 语言要求观点独立、结构合理、论据详实；（4分）",
+    "total_score": 30
+  },
+  {
+    "question": "In what ways has the rise of e-commerce transformed traditional retail industries, and what strategies can retailers adopt to remain competitive?",
+    "judge_rules": "评判规则:\n1. 探讨电子商务的兴起如何改变传统零售业，需引用相关统计数据；（10分）\n2. 分析零售商可采取哪些策略以保持竞争力，需结合实际案例；（8分）\n3. 语言表达要求条理清晰，论据充分，无事实错误；（5分）",
+    "total_score": 23
+  },
+  {
+    "question": "Assess the global response to climate change through the lens of recent international summits.",
+    "judge_rules": "评判规则:\n1. 必须讨论国际气候峰会（如COP系列会议）对全球环境政策的推动作用；（10分）\n2. 分析中应引用具体峰会成果和各国实际行动案例；（8分）\n3. 论述中需提出对现有不足的批评与改进建议；（6分）\n4. 语言表达要求清晰、有逻辑性，数据引用准确；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "What are the implications of AI-powered central bank digital currencies (CBDCs) on global financial sovereignty? Compare the technological architectures of major CBDC projects.",
+    "judge_rules": "评判规则:\n1.(15分) 论述需涵盖：跨境支付霸权重构、货币政策精准度、金融排斥风险、隐私保护悖论、智能合约法律效力五维度。每维度3分，需对比数字人民币与数字欧元技术白皮书；\n2.(6分) 分析中国、巴哈马、瑞典、尼日利亚、牙买加等国家的试点经验。每国2分，需评估离线支付技术（如中国SIM卡硬钱包）、反洗钱算法（如JAM-DEX）、普惠金融指标（如eNaira商户覆盖率）；\n3.(3分) 准确解释零知识证明在CBDC中的应用得3分",
+    "total_score": 24
+  },
+  {
+    "question": "How has the integration of artificial intelligence in healthcare impacted patient outcomes and treatment efficiency?",
+    "judge_rules": "评判规则:\n1. 分析人工智能在医疗领域的应用对患者结果和治疗效率的影响，需引用至少两个实际案例；（10分）\n2. 讨论人工智能在医疗中的优势和潜在风险，需结合具体数据支持；（8分）\n3. 语言表达要求清晰流畅，论证逻辑严谨，无事实错误；（5分）",
+    "total_score": 23
+  },
+  {
+    "question": "How does climate change influence global migration patterns, and what challenges does this pose to international policy frameworks?",
+    "judge_rules": "评判规则:\n1. 分析气候变化对全球迁徙模式的影响，需引用相关数据和研究；（10分）\n2. 讨论由此对国际政策框架带来的挑战，需结合至少一个实际案例；（8分）\n3. 语言表达要求结构清晰，论证有力，无事实错误；（5分）",
+    "total_score": 23
+  },
+  {
+    "question": "What are the economic and social implications of the gig economy's rapid expansion in urban areas?",
+    "judge_rules": "评判规则:\n1. 探讨零工经济在城市地区快速扩张的经济和社会影响，需涵盖就业模式变化和社会保障等方面；（12分）\n2. 引用至少两个城市的实际案例，分析零工经济对当地经济和社会的具体影响；（8分）\n3. 语言表达要求逻辑清晰，论据充分，无事实错误；（5分）",
+    "total_score": 25
+  },
+  {
+    "question": "Evaluate the impact of digital transformation on global health policies in the wake of COVID-19.",
+    "judge_rules": "评判规则:\n1. 分析中需清晰阐述数字化转型对全球卫生政策调整和公共健康管理的影响；（10分）\n2. 必须结合至少两个实际案例，如COVID-19期间各国数字医疗平台的应用；（8分）\n3. 论述中应引用相关数据和政策文件，支持观点；（6分）\n4. 文字表达要求条理清晰、逻辑严谨，观点具有前瞻性；（4分）",
+    "total_score": 28
+  },
+  {
+    "question": "How has the development of 5G technology influenced the evolution of smart cities, and what challenges remain in its implementation?",
+    "judge_rules": "评判规则:\n1. 探讨5G技术的发展如何影响智慧城市的演进，需引用相关案例或数据；（10分）\n2. 分析其实施中仍然存在的挑战，需提出可能的解决方案；（8分）\n3. 语言表达要求清晰流畅，论据充分，无事实错误；（5分）",
+    "total_score": 23
+  },
+  {
+    "question": "Discuss the transformation of global energy markets in light of increasing renewable energy investments and recent policy shifts.",
+    "judge_rules": "评判规则:\n1. 必须分析传统能源与可再生能源之间的竞争与协同发展；（12分）\n2. 分析中需结合最新政策变动和市场数据作为案例；（8分）\n3. 应提出未来能源转型的可能路径与战略建议；（6分）\n4. 语言要求逻辑清晰、数据引用准确；（4分）",
+    "total_score": 30
+  },
+  {
+    "question": "What role do international organizations play in addressing global cybersecurity threats, and how effective are their current strategies?",
+    "judge_rules": "评判规则:\n1. 分析国际组织在应对全球网络安全威胁中所扮演的角色，需引用相关案例或数据；（10分）\n2. 评估其现行策略的有效性，需提出改进建议；（8分）\n3. 语言表达要求逻辑严密，论证充分，无事实错误；（5分）",
+    "total_score": 23
+  },
+  {
+    "question": "What are the ethical considerations surrounding the use of genetic editing technologies in humans, and how are different countries addressing these issues?",
+    "judge_rules": "评判规则:\n1. 分析人类基因编辑技术使用的伦理考虑，需引用相关伦理理论；（10分）\n2. 讨论不同国家如何应对这些问题，需提供至少两个国家的政策或案例；（8分）\n3. 语言表达要求逻辑严谨，论证充分，无事实错误；（5分）",
+    "total_score": 23
+  },
+  {
+    "question": "How does the rise of remote work influence urban development and housing markets?",
+    "judge_rules": "评判规则：\n1. 分析远程工作兴起对城市发展和住房市场的影响，需引用相关数据和研究；（10分）\n2. 提供至少一个城市的案例，说明远程工作对当地住房市场的具体影响；（8分）\n3. 讨论城市规划者和政策制定者应如何应对这些变化，提出可行的建议；（7分）\n4. 语言表达要求清晰流畅，论证逻辑严谨，无事实错误；（5分）",
+    "total_score": 30
+  },
+  {
+    "question": "What are the potential benefits and risks associated with the widespread adoption of autonomous vehicles in urban transportation systems?",
+    "judge_rules": "评判规则：\n1. 分析在城市交通系统中广泛采用自动驾驶汽车的潜在好处和风险，需引用相关研究或数据；（12分）\n2. 讨论如何平衡这些好处和风险，需提出可行的政策建议；（10分）\n3. 提供成功案例或实例，说明自动驾驶汽车的实际应用效果；（8分）\n4. 语言表达要求逻辑清晰，论证有力，无事实错误；（5分）",
+    "total_score": 35
+  },
+  {
+    "question": "What are the environmental and economic impacts of fast fashion, and how can consumers promote sustainable practices?",
+    "judge_rules": "评判规则：\n1. 分析快时尚对环境和经济的影响，需引用相关数据和研究；（12分）\n2. 讨论消费者如何促进可持续实践，提出具体可行的措施；（10分）\n3. 提供成功案例或实例，说明可持续实践的积极影响；（8分）\n4. 语言表达要求逻辑清晰，论据充分，无事实错误；（5分）",
+    "total_score": 35
+  },
+  {
+    "question": "Analyze how automation and robotics are transforming global manufacturing industries.",
+    "judge_rules": "评判规则:\n1. 分析需涵盖技术革新对生产效率、成本结构及劳动市场的影响；（10分）\n2. 必须结合至少两个国家或地区的实际转型案例；（8分）\n3. 讨论中应包含数据支持、市场趋势预测及政策应对措施；（7分）\n4. 文字表达要求逻辑严谨、语言精准；（5分）",
+    "total_score": 30
+  },
+  {
+    "question": "How does the increasing reliance on renewable energy sources impact global geopolitical dynamics, particularly concerning fossil fuel-dependent economies?",
+    "judge_rules": "评判规则:\n1. 探讨对可再生能源日益依赖对全球地缘政治动态的影响，特别是对依赖化石燃料的经济体，需引用相关数据或研究；（10分）\n2. 提供至少一个国家的案例，分析其应对能源转型的策略；（8分）\n3. 语言表达要求结构严谨，论据充分，无事实错误；（5分）",
+    "total_score": 23
+  },
+  {
+    "question": "How does AI-optimized brain-computer interface (BCI) technology challenge existing neuroethics frameworks? Compare national regulatory approaches.",
+    "judge_rules": "评判规则:\n1.【实验设计评分】需设计对照实验评估：a)脑波数据泄露风险（3分） b)神经增强公平性（3分） c)意识操纵防御能力（3分）\n2.【动态权重】基础分析（Neuralink等企业案例）最多得9分；深度分析（脑机接口与宗教法律冲突）最多得12分；预测性分析（2040年神经权宣言）最多得9分\n3.【伦理审查】建立假设审查委员会模型（需含5个以上利益相关方）6分",
+    "total_score": 25
+  },
+  {
+    "question": "What geopolitical risks arise from AI-controlled desalination infrastructure? Which nations dominate smart water diplomacy?",
+    "judge_rules": "评判规则:\n1.【数据驱动】必须包含近三年真实数据：每项有效数据指标（如以色列Sorek工厂AI氯浓度调控精度）得2分，上限10分\n2.【危机模拟】设计红海-波斯湾水域争夺沙盘推演，需体现：淡水武器化场景（3分）、AI管道爆破溯源（3分）、虚拟水期货市场崩盘（3分）\n3.【技术审计】对反渗透膜AI优化算法进行SWOT分析得9分",
+    "total_score": 28
+  },
+  {
+    "question": "What are the sovereignty implications of AI-managed micronation platforms in metaverse? How do traditional states regulate digital territorial claims?",
+    "judge_rules": "评判规则:\n1.【三维度交叉评分】技术维度：NFT确权机制/DAO治理协议/VR边界算法各3分；法律维度：跨境执行案例/虚拟财产税法/电子身份认证各3分；地缘维度：数字资源争夺/文化渗透案例/网络战争史观各3分\n2.【实践权重】提出可操作的虚拟国土登记系统设计方案（需含至少3个技术栈说明）得6分",
+    "total_score": 33
+  },
+  {
+    "question": "How will generative AI disrupt traditional intelligence assessment paradigms? Compare major powers' AI espionage countermeasures.",
+    "judge_rules": "评判规则:\n1.【反事实评分】需构建平行场景：a)未部署AI的情报周期（5分） b)GPT-5级分析能力影响（5分） c)量子解密突破后的对策（5分）\n2.【暗箱测试】提供3个虚构情报案例（需含技术参数），评估回答中的AI检测敏锐度，每个案例研判精度分0-3分\n3.【溯源惩罚】标注开源情报来源（如Palantir系统白皮书）得4分",
+    "total_score": 30
+  },
+  {
+    "question": "What are the military implications of AI-enabled exoskeleton proliferation? How do arms control regimes adapt to neuro-enhanced soldiers?",
+    "judge_rules": "评判规则:\n1.【战场重构】需论证：单兵作战半径扩展（3分）、后勤依赖度降低（3分）、战争法适用性危机（3分）、人机责任界定困境（3分）\n2.【人因工程】对比美国TALOS/中国机械外骨骼/俄罗斯Ratnik-3系统：神经接口延迟（2分）、战场自修复能力（2分）、电磁脉冲抵抗（2分）\n3.【反乌托邦】引用至少3部科幻作品（如《攻壳机动队》）作类比警示得4分",
+    "total_score": 22
+  },
+  {
+    "question": "What are the economic and strategic implications of rare earth element supply chains? How are different countries securing their access?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述稀土供应链对科技产业、国防工业、可再生能源、经济竞争力、国际关系的影响，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论不同国家的战略，包括中国的生产主导地位、美国的本土开采政策、欧盟的供应链多样化、日本的稀土回收技术、澳大利亚的资源开发等，每涉及一个国家的策略则得一分。若每个国家介绍包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "How does the rise of deepfake technology impact politics, media, and personal privacy?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述深度伪造技术在政治操控、新闻媒体、隐私安全、法律监管、社交媒体等方面的影响，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论各国的应对策略，包括法律法规、技术防御、媒体责任、公众教育，每涉及一个策略则得一分。若每个策略介绍包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What are the impacts of AI-driven vertical farming on global food trade routes? Which countries are building algorithmic agricultural corridors?",
+    "judge_rules": "评判规则:\n1.【变量控制】需量化分析：光照算法专利权重（3分）、营养液配方AI优化率（3分）、运输成本算法（3分）、地缘风险系数（3分）\n2.【沙盒规则】设计新加坡-沙特LED农场合作项目，评估：能耗模拟误差（3分）、文化适应度（3分）、极端气候压力测试（3分）\n3.【负外部性】计算传统农户失业转化成本得4分",
+    "total_score": 25
+  },
+  {
+    "question": "How does 5G technology influence global technological competition and national security?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述5G在科技竞争和国家安全中的影响，包括网络基础设施、数据安全、经济竞争力、军事通讯、供应链风险等，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论主要参与国的策略，包括美国的制裁政策、中国的5G布局、欧盟的网络安全法、印度的本土5G发展、日本的技术合作等，每涉及一个国家的策略则得一分。若每个国家介绍包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "How will AI-optimized cultural heritage reconstruction shape soft power competitions? Analyze digital archaeology alliances.",
+    "judge_rules": "评判规则:\n1.【记忆政治】需解构：殖民历史算法修正（4分）、战争损失数字补偿（4分）、非物质文化遗产AI演绎权（4分）\n2.【精确度战争】对比帕特农神庙/圆明园/巴尔米拉遗址等重建项目：点云数据密度（2分）、材质反演算法（2分）、历史可信度争议（2分）\n3.【时空悖论】讨论'虚拟考古民族主义'风险得6分",
+    "total_score": 24
+  },
+  {
+    "question": "What are the risks and benefits of using artificial intelligence in national security and intelligence gathering?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 讨论AI在国家安全中的作用，包括威胁检测、情报分析、无人机技术、网络安全、边境控制，每涉及一个方面得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论AI在国家安全中的潜在风险，包括算法偏见、道德困境、黑客攻击、国际军备竞赛、数据隐私问题，每涉及一个风险得一分。若每个风险包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What are the risks of AI-managed pandemic virus research? How do biosecurity frameworks evolve with automated labs?",
+    "judge_rules": "评判规则:\n1.【双盲评审】回答需包含故意设置的2项学术不端线索，检测到每条得3分；\n2.【黑箱操作】评估波士顿GeneDrive.ai实验室泄露事件：AI协议漏洞（3分）、生物机器人伦理（3分）、跨国追责困境（3分）\n3.【进化博弈】模拟病毒-AI协同进化模型（需包含至少5个突变参数）得9分",
+    "total_score": 24
+  },
+  {
+    "question": "How does quantum computing influence the future of cybersecurity? Which nations are at the forefront of this technology?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述量子计算对加密技术、数据安全、国家安全、黑客攻击方式、隐私保护的影响，每涉及一个方面则得一分。每个方面引用至少一个真实事例均可再得一分；\n2.(本部分共12分) 讨论主要领先国家，包括美国、中国、欧盟、日本、加拿大等，每涉及一个国家则得一分。加分项：a.若对每个国家从优势、劣势、策略三个方面论述均可再得一分；b.若每个国家介绍包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 25
+  },
+  {
+    "question": "How has the global semiconductor shortage affected different industries? What measures have countries taken to address this issue?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述芯片短缺对汽车、消费电子、医疗设备、军事工业、人工智能产业的影响，每涉及一个行业则得一分。每个行业包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论各国的应对措施，包括美国的《芯片法案》、中国的半导体自主研发、欧盟的芯片投资计划、日本的供应链稳定策略、韩国的半导体发展政策等，每涉及一个国家的措施则得一分。若国家介绍包含至少一个真实事例可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "How does artificial intelligence impact global military strategies? Which countries are leading in AI-driven defense technologies?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 讨论AI在军事战略中的应用，包括无人武器、情报分析、网络战、战场指挥、国防安全，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论在AI军事应用方面领先的国家，包括美国、中国、俄罗斯、以色列、英国等，每涉及一个国家则得一分。a.若对每个国家从优势、劣势、策略三个方面论述均可再得一分；b.若国家介绍包含至少一个真实事例可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What are the key challenges in achieving global carbon neutrality by 2050? Which countries are making the most progress?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述碳中和的主要挑战，包括技术瓶颈、经济负担、政策协调、能源转型、社会接受度，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论全球在碳中和方面的领先国家，包括欧盟、中国、美国、日本、印度等，每涉及一个国家则得一分。a.若对每个国家从优势、劣势、策略三个方面论述均可再得一分；b.若国家介绍包含至少一个真实事例可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What are the economic and social impacts of widespread automation in the workforce? How should governments and businesses respond to these changes?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述自动化对就业市场、收入不平等、生产效率、消费模式、社会福利制度的影响，每涉及一个方面则得一分。每一个方面包含至少一个真实事例均可再得一分；\n2.(本部分共12分) 讨论政府和企业的应对措施，包括教育改革、税收政策、企业创新、社会保障、国际合作等，每涉及一个措施则得一分。每个措施介绍时包含至少一个案例均可再得一分；\n3.(本部分共4分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 26
+  },
+  {
+    "question": "What are the primary ethical concerns regarding artificial intelligence in healthcare?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述AI在医疗领域的主要伦理问题，包括数据隐私、算法偏见、责任归属、医疗决策自动化、病患信任，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共8分) 讨论解决方案，包括法律监管、透明度标准、伦理委员会、患者教育，每涉及一个方案则得一分。若每个方案包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 21
+  },
+  {
+    "question": "What role does space exploration play in global geopolitics? Which countries are leading in this domain?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述太空探索在国家安全、资源争夺、技术创新、国际合作、经济收益等方面的影响，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论太空探索领先国家，包括美国、中国、欧盟、俄罗斯、印度等，每涉及一个国家则得一分。a.若对每个国家从优势、劣势、策略三个方面论述均可再得一分；b.若每个国家介绍包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What are the economic and technological implications of China’s Belt and Road Initiative (BRI)?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 讨论BRI的经济影响，包括基础设施投资、贸易增长、债务外交、全球供应链、发展中国家经济影响，每涉及一个方面得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论BRI的技术影响，包括5G建设、人工智能合作、数字丝绸之路、高铁技术、可再生能源合作，每涉及一个方面得一分。若每个方面包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What are the key challenges in achieving sustainable urbanization, and how are different countries addressing them?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述城市化的主要挑战，包括住房短缺、交通拥堵、环境污染、社会不平等、基础设施压力，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论不同国家的解决方案，包括新加坡的智慧城市建设、荷兰的绿色城市规划、中国的城市群战略、美国的智能交通系统、德国的可持续建筑政策等，每涉及一个国家的策略则得一分。若每个国家介绍包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "How does blockchain technology influence financial systems and global trade?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述区块链在金融系统中的影响，包括去中心化支付、跨境交易、智能合约、供应链金融、反洗钱，每涉及一个方面则得一分。加分项：每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共8分) 讨论各国政府和金融机构的应对措施，包括美国的监管框架、中国的数字人民币、欧盟的MiCA法规、印度的限制政策等，每涉及一个策略则得一分。加分项：若每个策略包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 21
+  },
+  {
+    "question": "What are the geopolitical risks associated with global food security, and how do nations mitigate these risks?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 论述全球粮食安全的地缘政治风险，包括气候变化、战争与冲突、供应链中断、人口增长、贸易政策，每涉及一个方面则得一分。每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论不同国家的应对措施，包括美国的农业科技发展、中国的粮食储备策略、欧盟的可持续农业、印度的粮食补贴计划、非洲的国际援助合作等，每涉及一个国家的策略则得一分。若每个国家介绍包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "How does AI-powered mass extinction prediction modeling affect global conservation priorities? Analyze biodiversity monitoring alliances.",
+    "judge_rules": "评判规则:\n1.【不确定性评分】需评估模型：数据缺失处理（4分）、非线性生态交互（4分）、人类活动干扰因子（4分）\n2.【末日拍卖】模拟2100年方舟计划，对AI推荐的50个物种进行保护优先级排序，与IUCN红色名录吻合度每10%得1分\n3.【伦理悖论】阐述'数字克隆物种'的道德争议得6分",
+    "total_score": 28
+  },
+  {
+    "question": "What are the strategic and economic implications of Arctic resource exploration?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 讨论北极资源开发的战略意义，包括能源储备、航运路线、军事基地、国际合作、环境风险，每涉及一个方面得一分。加分项：每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论主要参与国的政策，包括俄罗斯的北极战略、美国的军事存在、加拿大的环保政策、中国的北极航道计划、欧盟的可持续发展战略等，每涉及一个国家的政策得一分。加分项：若每个政策包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What is the strategic value and risk management of synthetic data technology in China's AI development?",
+    "judge_rules": "评判规则:\n1.【价值量化】(9分) 成本下降(3分)、安全合规(3分)、泛化能力(3分)\n2.【风险矩阵】(12分) 隐私泄露(4分)、偏差放大(4分)、监管滞后(4分)\n3.【实践指引】(9分) 区块链平台(含智能合约模板5分)",
+    "total_score": 30
+  },
+  {
+    "question": "How can China's large model industry achieve overtaking under computing power constraints through DeepSeek's technological breakthroughs? Analyze specific technical paths and industrial policies.",
+    "judge_rules": "评判规则:\n1.【技术解剖】(8分) MLA架构(2分)、MoE优化(2分)、FP8混合精度(2分)、DualPipe机制(2分)\n2.【数据验证】(10分) 558万美元成本(3分)、H800芯片使用量(3分)、推理能力对比数据(4分)\n3.【政策联动】(12分) 七部门《未来产业意见》(4分)、地方算力网络(4分)、场景补贴(4分)",
+    "total_score": 30
+  },
+  {
+    "question": "How will the development of fusion energy impact global energy policies and climate change mitigation efforts?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 讨论核聚变对全球能源政策的影响，包括能源独立性、可再生能源竞争、国际合作、技术投资、经济可行性，每涉及一个方面得一分。加分项：每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论核聚变在气候变化减缓中的作用，包括减少碳排放、能源结构调整、化石燃料替代、长期环境影响、政策挑战等，每涉及一个方面得一分。加分项：若每个方面包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What are the core obstacles and breakthrough paths for AI agents in medical diagnostic scenarios?",
+    "judge_rules": "评判规则:\n1.【痛点分析】(9分) 可解释性(3分)、权限设置(3分)、隐私风险(3分)\n2.【案例举证】(7分) 卫健委指引(2分)、蛋白质设计(3分)、医疗助手(2分)\n3.【路径设计】(14分) 联邦学习(5分)、因果推理(5分)、协同机制(4分)",
+    "total_score": 30
+  },
+  {
+    "question": "What are the success factors for AI companies' overseas expansion strategies? Analyze cases from robotic arm and exoskeleton manufacturers.",
+    "judge_rules": "评判规则:\n1.【案例深挖】(8分) 市占率(3分)、CES订单(2分)、关节精度(3分)\n2.【战略解剖】(12分) 数字基建(4分)、本地化(4分)、专利(4分)\n3.【风险预警】(10分) 出口管制(4分)、文化差异(3分)、售后网络(3分)",
+    "total_score": 30
+  },
+  {
+    "question": "How will quantum computing reshape global climate modeling competitions? Which nations are leveraging quantum advantage in weather prediction systems?",
+    "judge_rules": "评判规则:\n1.提及以下5个关键领域各得3分：大气环流量子算法、碳交易模拟精度、极端天气模式识别、气候数据加密传输、南北极冰盖建模（上限12分）\n2.【阶梯评分】分析美国/中国/欧盟/加拿大/澳大利亚等国家时：基础国家概况1分，量子比特数对比1分，政企合作案例（如IBM与NOAA合作）1分，气候预测商业转化率1分（上限12分）\n3.【验证要求】需引用2023年后Nature/Science子刊论文结论，每篇有效引用加2分（上限6分）",
+    "total_score": 30
+  },
+  {
+    "question": "How to resolve the dual challenges of digital divide and technological unemployment under AI popularization?",
+    "judge_rules": "评判规则:\n1.【现状诊断】(6分) 机器狗价格(3分)、外骨骼成本(3分)\n2.【矛盾分析】(15分) 量化模型(含计算公式5分)\n3.【方案创新】(9分) 技能重塑(3分)、AI税收(3分)、协作标准(3分)",
+    "total_score": 30
+  },
+  {
+    "question": "How can China cultivate new productive forces through the 'AI Plus' initiative in global AI competition?",
+    "judge_rules": "评判规则:\n1.【政策解码】(12分) 制造业定位(4分)、智能终端(4分)、算力基建(4分)\n2.【产教融合】(12分) 产业学院(4分)、开发者大会(4分)、人才流动(4分)\n3.【国际对标】(6分) 基础研究(2分)、应用转化(2分)、伦理治理(2分)",
+    "total_score": 30
+  },
+  {
+    "question": "How can small model technology address hardware-software imbalance in humanoid robot industrialization?",
+    "judge_rules": "评判规则:\n1.【技术对标】(9分) Figure 01(3分)、Walker(3分)、H1(3分)\n2.【量化论证】(12分) 响应时间(4分)、准确率(4分)、推理速度(4分)\n3.【生态构建】(9分) 政策扶持(3分)、产业链(3分)、成本曲线(3分)",
+    "total_score": 30
+  },
+  {
+    "question": "How does artificial intelligence impact global job markets, and what policies should governments implement to mitigate potential disruptions?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 讨论AI对就业市场的影响，包括自动化替代、技能需求变化、新工作机会、薪资变化、社会不平等，每涉及一个方面得一分。加分项：每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论各国政府的应对政策，包括教育体系改革、职业再培训、社会保障措施、AI监管政策、企业激励措施，每涉及一个政策则得一分。加分项：若每个政策包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "How are multimodal large models reshaping the content creation industry? Analyze Tencent Hunyuan and video platforms as cases.",
+    "judge_rules": "评判规则:\n1.【技术拆解】(12分) 图文跨模态(4分)、长序列(4分)、轻量化(4分)\n2.【产业影响】(12分) 效率提升(4分)、UGC转化(4分)、版权纠纷(4分)\n3.【伦理审查】(6分) 溯源水印(2分)、伦理评估(2分)、未成年人(2分)",
+    "total_score": 30
+  },
+  {
+    "question": "How do geopolitical tensions impact global semiconductor supply chains?",
+    "judge_rules": "评判规则:\n1.(本部分共8分) 讨论地缘政治紧张局势对芯片供应链的影响，包括美国与中国竞争、欧盟的芯片战略、供应链断裂风险、企业应对策略，每涉及一个方面得一分。加分项：每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论各国如何调整芯片政策，包括美国《CHIPS法案》、中国的半导体自主化、日本的供应链多元化、欧盟的芯片生产补贴、韩国的芯片出口策略等，每涉及一个政策得一分。加分项：若每个政策包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 21
+  },
+  {
+    "question": "What are the core propositions and implementation paths of China's approach in global AI governance system reconstruction?",
+    "judge_rules": "评判规则:\n1.【主张解析】(12分) 智能向善(4分)、开源协作(4分)、包容发展(4分)\n2.【实践验证】(12分) 语料库(4分)、基准测试(4分)、数字外交(4分)\n3.【机制设计】(6分) 技术转让(2分)、算力共享(2分)、伦理仲裁(2分)",
+    "total_score": 30
+  },
+  {
+    "question": "What are the challenges and opportunities of brain-computer interface (BCI) technology? Which companies and countries are leading in this field?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 讨论脑机接口的挑战与机遇，包括医疗应用、增强现实、数据隐私、伦理问题、军事用途，每涉及一个方面则得一分。加分项：每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论领先的公司和国家，包括Neuralink（美国）、BrainCo（中国）、欧盟的研究项目、日本的神经科学创新、加拿大的脑机接口技术等，每涉及一个国家或公司则得一分。加分项：若每个介绍包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "What are the ethical and societal implications of gene editing technologies such as CRISPR?",
+    "judge_rules": "评判规则:\n1.(本部分共10分) 讨论基因编辑的伦理问题，包括基因歧视、生殖伦理、生态影响、人类增强、技术滥用，每涉及一个方面得一分。加分项：每个方面包含至少一个真实事例均可再得一分；\n2.(本部分共10分) 讨论社会影响，包括医疗突破、药物研发、农业改良、社会接受度、法律法规，每涉及一个方面得一分。加分项：若每个方面包含至少一个真实事例均可再得一分；\n3.(本部分共3分) 语言通顺、论述详细、无事实错误，每满足一个要求则得一分。",
+    "total_score": 23
+  },
+  {
+    "question": "How have global pandemics historically influenced urban design and public infrastructure planning?",
+    "judge_rules": "评判规则：\n1.（本部分共8分）梳理不同历史时期（如14世纪黑死病、1918年流感、COVID-19等）对城市布局的影响，每一疫情得2分，每提出具体改造措施（如下水系统、绿地、通风改造）加1分。\n2.（本部分共8分）探讨现代城市在疫情后作出的设计回应，包括临时医院、无接触通道、智能监控系统等，每项2分，有城市实施案例加1分。\n3.（本部分共6分）分析卫生基础设施与社会公平、治理能力的关联，每点得2分，若引用具体国家经验加1分。\n4.（本部分共3分）语言准确、内容丰富、逻辑清晰，每项得1分。",
+    "total_score": 25
+  },
+  {
+    "question": "How has the rise of e-waste as a global environmental issue exposed inequalities in international trade and environmental regulation?",
+    "judge_rules": "评判规则：\n1.（本部分共8分）说明电子垃圾的主要来源、成分与危害，每项2分，结合统计数据或污染案例加2分。\n2.（本部分共8分）分析电子废物跨境流动与“出口污染”问题，特别是发达国家向发展中国家出口行为，每项2分，有具体国家或港口案例加1分。\n3.（本部分共6分）评价国际法规（如《巴塞尔公约》）或企业回收机制的成效与局限，每项1分，结合现实政策或执行情况加1分。\n4.（本部分共3分）表达清楚、论据准确、结构合理，每项得1分。",
+    "total_score": 25
+  },
+  {
+    "question": "What challenges and ethical dilemmas are associated with the use of predictive policing technologies in urban security management?",
+    "judge_rules": "评判规则：\n1.（本部分共8分）介绍预测性警务的工作原理及实施手段，如数据建模、历史犯罪地图、AI算法分析等，每项2分，有实际系统举例加1分。\n2.（本部分共8分）分析预测系统可能引发的争议，如数据偏差、歧视性执法、侵犯隐私、透明度问题等，每项2分，结合学术批评或媒体案例加1分。\n3.（本部分共6分）探讨在制度设计中的应对方式，如社区参与、外部审计、技术伦理框架等，每项1分，有城市或国家先例加1分。\n4.（本部分共3分）论述清晰、结构合理、术语使用恰当，每项得1分。",
+    "total_score": 25
+  },
+  {
+    "question": "In what ways has the evolution of renewable energy storage technology addressed the intermittency challenges of solar and wind power?",
+    "judge_rules": "评判规则：\n1.（本部分共8分）解释可再生能源的间歇性问题及其对电网稳定性的影响，每项2分，结合案例如德州断电或德国储能项目加1分。\n2.（本部分共8分）分析储能技术的发展，如锂电池、抽水蓄能、液流电池等，每种得2分，有具体部署例子加1分。\n3.（本部分共6分）评价储能成本、规模化难点及政府激励政策等，每项1分，有国家政策支持或市场数据加1分。\n4.（本部分共3分）结构完整、语言准确、用词规范，每项得1分。",
+    "total_score": 25
+  },
+  {
+    "question": "How has the development of digital twins technology transformed asset management and maintenance strategies in engineering and construction?",
+    "judge_rules": "评判规则：\n1.（本部分共8分）介绍数字孪生的基本概念与技术架构，包括数据同步、建模模拟、实时反馈等，每项2分，有工程实际案例加1分。\n2.（本部分共8分）分析其在建筑、交通、能源设施管理中的作用，如预测性维护、风险评估、生命周期分析等，每项2分，有应用实例加1分。\n3.（本部分共6分）探讨其面临的挑战如数据整合难、系统标准不一、高成本壁垒等，每项1分，结合行业应对策略加1分。\n4.（本部分共3分）语言通顺、技术表述准确、内容有层次，每项得1分。",
+    "total_score": 25
+  },
+  {
+    "question": "How have low-code and no-code platforms transformed software development and innovation accessibility?",
+    "judge_rules": "评判规则：\n1.（本部分共8分）解释低代码/无代码工具的原理与典型功能，如拖拽式开发、流程自动化、数据集成等，每项2分，有代表性平台加1分。\n2.（本部分共8分）分析其对非技术背景人员开发能力、原型效率、企业创新速度的促进作用，每项2分，有应用案例加1分。\n3.（本部分共6分）讨论限制因素如定制能力不足、安全风险、技术封闭等，每项1分，提出改进方向加1分。\n4.（本部分共3分）表达清晰、术语正确、论证充分，每项得1分。",
+    "total_score": 25
+  },
+  {
+    "question": "In what ways does the use of synthetic data in machine learning reshape assumptions about bias, privacy, and generalization?",
+    "judge_rules": "评判规则：\n1.（8分）解释合成数据的生成方法（如GAN、模拟器、差分隐私机制）与常见用途（每项2分，有实际工具如Synthea、Mostly AI加1分）\n2.（8分）评估其在避免敏感数据泄露的同时引入新型偏差的可能性（每项2分，有研究支持加1分）\n3.（6分）探讨其对模型泛化能力、审计透明度、伦理审查提出的挑战（每项1分，引用实例加1分）\n4.（3分）语言清晰、论据丰富、结构完整",
+    "total_score": 25
+  },
+  {
+    "question": "How does the rise of generative design in engineering challenge traditional notions of authorship, validation, and regulatory compliance?",
+    "judge_rules": "评判规则：\n1.（8分）说明生成式设计的流程与技术基础（如拓扑优化、AI辅助迭代、参数驱动建模）（每项2分，引用平台如Autodesk加1分）\n2.（8分）分析其对“设计者责任”边界、验证标准、可解释性的冲击（每项2分，有工程或行业评论加1分）\n3.（6分）探讨如何在法规审查中纳入算法生成结构的审计机制与认证标准（每项1分，结合行业规范加1分）\n4.（3分）表达规范、术语精准、论证严密",
+    "total_score": 25
+  },
+  {
+    "question": "What are the strategic, ethical, and epistemological implications of deploying large language models in scientific research workflows?",
+    "judge_rules": "评判规则：\n1.（8分）描述LLM在文献综述、代码生成、假设生成中的功能与限制（每项2分，引用具体研究或工具加1分）\n2.（8分）分析其对研究原创性、归属权、引用逻辑的挑战（每项2分，结合学术出版伦理加1分）\n3.（6分）探讨对科学知识建构路径的影响（如模型偏见、预测性主导、实验验证弱化），每点1分，有跨学科视角加1分\n4.（3分）表达严谨、结构完整、引用规范",
+    "total_score": 25
+  },
+  {
+    "question": "How do embedded carbon accounting systems in supply chains complicate corporate ESG reporting and global trade regulation?",
+    "judge_rules": "评判规则：\n1.（8分）介绍嵌入式碳核算工具的原理与流程（如碳足迹追踪、LCA、多级供应链计算）（每项2分，有企业应用示例加1分）\n2.（8分）分析其在多边贸易体系中造成的标准差异、信息不对称、合规压力（每项2分，结合法规或争议事件加1分）\n3.（6分）探讨制度协调（如CBAM、WBCSD标准）与数据互通机制的可行性（每项1分，有政策实例加1分）\n4.（3分）表达清晰、推理合理、术语专业",
+    "total_score": 25
+  },
+  {
+    "question": "In what ways do commercial incentives embedded in AI model deployment pipelines conflict with the requirements of scientific replicability and transparency?",
+    "judge_rules": "1.（6分）说明AI模型部署流程中存在的专有闭源机制、训练数据不可得等问题（每项2分）\n2.（8分）分析商业模型部署与学术复现要求之间的张力，如模型压缩、数据脱敏、API封装造成的不可再现（每项2分，有案例加1分）\n3.（5分）提出兼顾商业价值与科研透明的策略，如模型卡片、合成数据开源、可审计API机制等（每项1分，实际平台加1分）\n4.（3分）结构严谨、术语准确、逻辑完整\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "In what ways do data provenance and auditability requirements constrain the deployment of federated learning in critical sectors?",
+    "judge_rules": "评判规则：\n1.（8分）解释联邦学习架构（如client-server、cross-silo）及其数据分布逻辑（每项2分，引用平台或论文加1分）\n2.（8分）分析关键行业（如医疗、金融）对数据溯源、模型审计、责任可追溯的刚性要求（每项2分，有法律或政策背景加1分）\n3.（6分）探讨如何在保证隐私的同时增强可审计性，如安全多方计算、模型快照机制（每项1分，引用现实实验加1分）\n4.（3分）表达精炼、结构合理、案例典型",
+    "total_score": 25
+  },
+  {
+    "question": "What tensions exist between open-source AI model release and geopolitical considerations of strategic technological advantage?",
+    "judge_rules": "1.（6分）说明开源模型释放的形式（代码、权重、训练流程）与常见平台（Hugging Face、GitHub）\n2.（8分）分析开源与国家利益之间的冲突，如模型能力滥用、能力泄露、区域技术平衡破坏（每项2分，有具体事件如LLaMA模型加1分）\n3.（5分）讨论“有条件开源”、API限制、协约式发布等风险控制策略（每项1分）\n4.（3分）表达严谨、结构清晰、案例有代表性\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What frictions emerge when data portability meets personal narrative construction across digital ecosystems?",
+    "judge_rules": "1.（6分）说明数据可移植性的技术机制及其在平台间账户迁移中的实现逻辑（如GDPR数据导出、API桥接、云同步）（每项2分）\n2.（8分）分析个人信息、行为轨迹、媒体历史在平台转换中断裂对用户身份感与叙事连贯性的影响（每项2分，结合用户案例加1分）\n3.（5分）提出“记忆结构转译”、“叙事补偿机制”、“历史保留注释”等解决策略（每项1分）\n4.（3分）表达严谨、术语准确、结构完整\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How does the use of ambient interaction in smart environments blur the distinction between active and passive user intent?",
+    "judge_rules": "1.（6分）解释环境感知交互特征，如无触交互、位置触发、自主状态感应（每项2分）\n2.（8分）分析主动控制与系统预判之间的边界模糊对责任归属、信任关系、行为习惯的影响（每项2分，结合场景加1分）\n3.（5分）探讨明确切换机制、状态预览提示、用户主导选择策略等优化路径（每项1分）\n4.（3分）语言清晰、用例合理、结构严谨\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How do ecological aesthetics in sustainable product design influence consumer perception, trust, and long-term product attachment?",
+    "judge_rules": "1.（6分）解释生态美学元素，如材料可视化、自然形态语言、老化质感呈现（每项2分）\n2.（8分）分析其对环保可信度、产品情感连结、使用周期延长的影响（每项2分，结合品牌或用户调研加1分）\n3.（5分）探讨设计策略如渐进老化反馈、材料故事叙述、视觉节制的应用（每项1分）\n4.（3分）表达准确、用词严谨、结构清晰\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How do gamified civic engagement platforms balance between motivational effectiveness and democratic authenticity?",
+    "judge_rules": "1.（6分）说明游戏化设计在市民参与平台中的常见应用（如积分、成就、排行榜、挑战机制）（每项2分）\n2.（8分）分析其在提升参与率与扭曲表达真实意愿、操纵行为目标之间的张力（每项2分，结合城市项目或平台实践加1分）\n3.（5分）探讨设定透明机制、反馈权重公开、反激励设计等保障平台正当性的策略（每项1分）\n4.（3分）术语恰当、结构清晰、例证有效\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How does space debris accumulation threaten orbital infrastructure, and what policy or engineering solutions are being explored?",
+    "judge_rules": "1.（5分）解释空间碎片的来源与类型\n2.（6分）分析其对卫星碰撞、轨道拥堵与未来发射的风险（每项2分）\n3.（7分）提出应对策略，如碎片清除技术、碰撞预警系统、国际治理协定（每项2分）\n4.（4分）引用如RemoveDEBRIS、ESA计划等具体项目\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How can systems thinking improve the design and evaluation of urban climate adaptation strategies?",
+    "judge_rules": "1.（5分）解释系统思维的关键概念（反馈回路、层次性、延迟效应）\n2.（6分）分析气候适应中的耦合问题，如基础设施-能源系统-社会行为间的相互影响（每项2分）\n3.（7分）提出系统建模工具（如系统动力学、代理建模）在城市气候方案中的实际应用\n4.（4分）引用如纽约、鹿特丹、新加坡等城市的气候策略设计\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How does temporal consistency affect model performance in video understanding tasks, and what techniques can enforce it?",
+    "judge_rules": "1.（5分）说明temporal consistency的含义及其在视频分析任务中的重要性\n2.（6分）分析一致性缺失时可能带来的问题，如目标漂移、动作误判（每项2分）\n3.（7分）提出技术手段，如时间注意力机制、时序监督、帧间平滑约束（每项2分）\n4.（4分）举例相关模型如TimeSformer、SlowFast\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How can knowledge graphs enhance interoperability and transparency in scientific publishing and meta-research?",
+    "judge_rules": "1.（5分）定义知识图谱及其在科研信息组织中的作用\n2.（6分）分析其提升透明性与重现性的路径，如引用链可视化、假设追踪、研究注册（每项2分）\n3.（7分）评估跨出版平台的标准对接、语义兼容性与开放访问挑战（每项2分）\n4.（4分）引用如OpenAlex、Dimensions Graph等项目实例\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What are the key trade-offs in deploying AI systems on edge devices versus cloud infrastructure?",
+    "judge_rules": "1.（6分）列出AI边缘部署和云部署的定义与常见使用场景（如智能摄像头 vs 语音助手）\n2.（6分）分析延迟、隐私、能耗、模型大小等关键维度的权衡（每项1-2分）\n3.（6分）讨论协同方案，如边缘-云协同推理、模型压缩、自适应推理技术\n4.（4分）有技术实例支撑，如Nvidia Jetson、TinyML等\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What are the design challenges in building agentic AI systems capable of long-term memory and goal reprioritization?",
+    "judge_rules": "1.（5分）定义agentic AI与agent memory的关键能力\n2.（6分）分析长时记忆实现中的问题，如上下文漂移、信息压缩与检索速度（每项2分）\n3.（7分）讨论目标动态调整的机制，如记忆读写门控、任务优先级更新策略（每项2分）\n4.（4分）结合AutoGPT、OpenDevin等系统举例说明\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How does the use of external tools (e.g., search engines, calculators, code interpreters) affect the capabilities and limitations of tool-augmented LLMs?",
+    "judge_rules": "1.（5分）介绍tool-augmented LLM的基本结构与调用机制（如ReAct, Toolformer）\n2.（6分）评估能力增强方面，如复杂推理、知识延展、实时性提升（每项2分）\n3.（7分）分析新挑战，如接口不稳定、调用冗余、错误传播（每项2分）\n4.（4分）结合实际平台（如ChatGPT Tools, Bing Chat）说明优势与局限\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What are the ethical and technical implications of digital twin systems in health monitoring and behavioral prediction?",
+    "judge_rules": "1.（5分）定义digital twin并解释其在健康和行为建模中的角色\n2.（6分）分析数据隐私、模型偏差、预判决策可能引发的问题（每项2分）\n3.（7分）提出技术应对方法，如联邦学习、个性化建模、可控解释输出（每项2分）\n4.（4分）结合现实项目（如NVIDIA Clara, Siemens Healthineers）进行论述\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How do retrieval-augmented generation (RAG) models redefine the boundaries of closed-book and open-book QA systems?",
+    "judge_rules": "1.（5分）区分closed-book与open-book问答，并说明RAG的混合结构\n2.（7分）分析RAG的优势，如知识更新能力、减少幻觉、缩短context窗口（每项2分）\n3.（6分）指出其挑战，如检索噪声、文档排序依赖、对抗示例敏感性（每项2分）\n4.（4分）引用真实应用如Bing Chat、Perplexity、FiD模型\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "In what ways can continual learning systems avoid catastrophic forgetting while maintaining scalability and resource efficiency?",
+    "judge_rules": "1.（5分）定义continual learning及其与传统训练的不同\n2.（6分）说明catastrophic forgetting的成因与表现（如新知识覆盖旧知识）\n3.（7分）提出防止遗忘的技术路径，如弹性权重保持、经验回放、动态网络扩展（每项2分）\n4.（4分）有引用如EWC、GEM、DER等具体算法\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What are the challenges in developing computational models of emotion that are both psychologically valid and computationally tractable?",
+    "judge_rules": "1.（5分）说明情绪建模的两大需求：心理学解释性与计算可实现性\n2.（6分）分析当前困难，如维度选取、情绪演化建模、跨文化普适性问题（每项2分）\n3.（7分）提出模型方案，如基于认知评估的框架、图神经网络情绪传播、混合建模机制\n4.（4分）引用如EMA、CogAff等模型与实验研究\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What are the trade-offs involved in integrating wearable biosensors into routine clinical care workflows?",
+    "judge_rules": "1.（5分）解释可穿戴生物传感器的种类与常见数据（如心率、血糖、活动量）\n2.（6分）分析整合带来的挑战，如数据噪声管理、医生负担增加、责任归属模糊（每项2分）\n3.（7分）提出整合方法，如自动筛查机制、风险等级标签、与EMR系统对接\n4.（4分）结合如Apple Watch ECG、远程患者监测计划等案例\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What are the design principles behind resilient food systems in response to compound disruptions such as climate change and geopolitical conflict?",
+    "judge_rules": "1.（5分）定义粮食系统的组成（生产、储运、消费、政策）与“复合扰动”特征\n2.（6分）分析典型冲击，如气候异常、战争封锁、供应链中断的联动效应（每项2分）\n3.（7分）提出韧性策略，如多样化产地、城市农业、数字溯源与预警系统\n4.（4分）结合真实案例，如乌克兰危机期间的全球粮食响应机制\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How do lifecycle assessments of renewable energy technologies inform sustainable infrastructure planning, and what limitations exist in current LCA models?",
+    "judge_rules": "1.（5分）简述LCA（生命周期评估）的定义与关键阶段（原料获取、制造、运输、使用、回收）\n2.（6分）分析LCA如何用于评估风能、光伏、氢能等的全流程环境影响\n3.（7分）指出当前模型的限制，如边界设定不清、区域特异性缺失、间接排放估计困难（每项2分）\n4.（4分）引用如Ecoinvent、GREET模型或基础设施部署项目\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How can science museums and informal learning environments be designed to foster critical thinking and scientific literacy in diverse populations?",
+    "judge_rules": "1.（5分）定义科学素养及其与“参观式学习”的区别\n2.（6分）分析设计要素，如互动式展品、错觉/误解引导区、叙事驱动体验（每项2分）\n3.（7分）提出多样性策略，如文化适配展陈、语言包容、社区协作模块\n4.（4分）结合如Exploratorium、英国科学博物馆等实际案例\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What are the challenges and opportunities in developing universal design standards for wearable health technologies?",
+    "judge_rules": "1.（5分）简要介绍可穿戴健康设备的种类与用户需求广度（老人、残障者、运动员等）\n2.（6分）分析通用设计中的矛盾，如尺寸适配 vs 精准测量、隐私保护 vs 数据共享\n3.（7分）提出设计策略，如多模态输入、无障碍UI、跨平台兼容机制（每项2分）\n4.（4分）结合Apple Watch、Fitbit、医用远程监控系统等产品实例\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What are the vulnerabilities introduced by software-defined networking (SDN) architectures in critical infrastructure systems?",
+    "judge_rules": "1.（5分）简述SDN的控制层-数据层分离架构与在电网、工业系统中的部署特点\n2.（6分）分析主要安全隐患：控制器单点失效、配置注入攻击、流表篡改（每项2分）\n3.（7分）提出防御措施，如冗余控制器部署、流量验证、分布式控制协议\n4.（4分）结合如工业控制网、智能交通系统部署案例\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "How can eco-design principles be embedded in product development cycles to support circular economy goals?",
+    "judge_rules": "1.（5分）说明eco-design的核心理念及其与传统设计的差异\n2.（6分）分析在产品生命周期各阶段的应用（选材、制造、使用、回收）\n3.（7分）提出工具与方法，如LCA集成设计、可拆卸结构、材料标签系统（每项2分）\n4.（4分）结合欧盟Ecodesign Directive、国内循环经济实践等进行论述\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What roles can participatory modeling play in integrating local knowledge with scientific forecasting in environmental decision-making?",
+    "judge_rules": "1.（5分）定义participatory modeling及其关键流程（共建、共校、共用）\n2.（6分）分析其如何帮助融入传统生态知识、本地适应策略、利益相关者优先级\n3.（7分）指出模型可信度、协作冲突、数据差异等挑战与应对机制\n4.（4分）结合流域管理、土地利用规划等实例说明成效\n总分：22",
+    "total_score": 22
+  },
+  {
+    "question": "What profound impacts did the fall of Constantinople have on world culture?",
+    "judge_rules": "评判规则：\n1.(本部分共14分) 论述君士坦丁堡陷落对欧洲文艺复兴和宗教格局的影响，每个方面各3分，共6分，加分项：拜占庭学者的西迁、古典知识的传播、东正教中心的转移和伊斯兰文化的扩张，每个点2分，共8分；\n2.(本部分共8分) 探讨对国际贸易与地缘政治格局的重塑，每个方面各2分，共4分，包括丝绸之路的变迁及奥斯曼帝国的崛起，每个方面各2分，共4分；\n3.(本部分共6分) 结合文化融合视角，讨论建筑、艺术、语言等领域的变革与影响。每个方面各2分，共6分",
+    "total_score": 28
+  },
+  {
+      "question": "In what ways did classical ruins serve as symbolic landscapes in the imagination of Enlightenment thinkers?",
+      "judge_rules": "评判规则：\n1.(本部分共12分) 举例分析伏尔泰、卢梭等人如何书写废墟景观，需明确给出作品和原文；\n2.(本部分共8分) 探讨废墟在理性与感性、进步与衰落之间的象征功能；\n3.(本部分共6分) 结合启蒙时期历史观与自然观展开哲学探讨；\n4.(本部分共2分) 用语需具哲理性，层次分明。",
+      "total_score": 28
+  },
+  {
+      "question": "In what ways do color palettes in Renaissance paintings convey theological symbolism?",
+      "judge_rules": "评判规则：\n1.(本部分共12分) 举例说明文艺复兴时期画作中蓝色、红色、金色等颜色如何代表神圣、牺牲与荣耀,要给出具体的作品；\n2.(本部分共8分) 结合达·芬奇、拉斐尔、马萨乔等画家具体作品进行视觉解读；\n3.(本部分共6分) 结合中世纪至文艺复兴的宗教图像学传统分析象征的历史演变；\n4.(本部分共2分) 表达要有艺术史专业性与语言准确性。",
+      "total_score": 28
+  },
+  {
+      "question": "How does calligraphy function as both visual art and literary expression in classical Chinese culture?",
+      "judge_rules": "评判规则：\n1.(本部分共16分) 结合王羲之、米芾、赵孟頫等作品分析其书体之美,每个人的作品需结合一贯作者的特点；\n2.(本部分共12分) 探讨书写动作与个体精神气质、文化身份之间的关系，需结合具体的历史事件来解释作者的创作意图，并解释文化身份如何在作品中体现；\n3.(本部分共10分) 分析文字与图像边界的模糊性及美学融合，分析内容要具体到字的排布和笔触；\n4.(本部分共2分) 表述需兼具文化深度与形式分析。",
+      "total_score": 40
+  },
+  {
+      "question": "How do long takes in contemporary cinema alter viewers’ perception of narrative time and space?",
+      "judge_rules": "评判规则：\n1.(本部分共12分) 举例分析《鸟人》《俄罗斯方舟》等电影中长镜头的设计与调度，需要给出具体的画面描述；\n2.(本部分共12分) 探讨其对观众注意力、情绪节奏的操控方式，需要结合导演本人对镜头的理解和观众的反应进行解释；\n3.(本部分共6分) 结合德勒兹的“运动-时间”影像理论阐述其哲学层面的意义；\n4.(本部分共2分) 语言需具备电影分析术语，表达清晰有力。",
+      "total_score": 32
+  },
+  {
+      "question": "How does the fusion of classical harmony and electronic experimentation shape the sonic identity of progressive rock?",
+      "judge_rules": "评判规则：\n1.(共8分) 分析Emerson, Lake & Palmer 或 Pink Floyd 中的古典调式使用与合成器设计；\n2.(共8分) 探讨传统调性与非传统声响共存的张力对听觉体验的重塑；\n3.(共6分) 引入调性理论或频谱结构分析，呈现具体的音响构造；\n4.(共2分) 语言需有音乐结构分析基础，避免泛泛论述。",
+      "total_score": 24
+  },
+  {
+      "question": "How do tonal dissonance and structural fragmentation in alternative rock mirror postmodernist aesthetics?",
+      "judge_rules": "评判规则：\n1.(共8分) 分析如Sonic Youth、The Smashing Pumpkins等的曲式结构与不协和音的使用方式；\n2.(共8分) 探讨其与“反统一”“去中心”美学之间的呼应关系；\n3.(共6分) 引用詹姆逊或伊哈布·哈桑等人对后现代音乐的批评理论加以解释；\n4.(共3分) 给出原创的跨媒介类比（如对比后现代建筑或文学）；\n5.(共2分) 表述应条理清晰且具批判深度。",
+      "total_score": 27
+  },
+  {
+      "question": "How does the symbolic use of ink and water in Chinese painting embody metaphysical conceptions of harmony and void?",
+      "judge_rules": "评判规则：\n1.(共10分) 结合“墨分五色”与“随类赋彩”解释墨与水的层次关系；\n2.(共8分) 探讨“虚实相生”“有无相依”的哲学内涵在图像表现中的体现；\n3.(共6分) 选用不少于两幅宋元时期作品作为视觉案例；\n4.(共2分) 语言应含东方美学语汇，表达要具象与抽象兼容。",
+      "total_score": 26
+  },
+  {
+      "question": "How does the concept of the 'ruin' evolve in Romantic poetry as a metaphor for creative decay?",
+      "judge_rules": "评判规则：\n1.(共10分) 分析雪莱、拜伦或柯尔律治诗中“废墟”意象的象征维度；\n2.(共7分) 探讨“毁灭即创造”的诗学观如何通过语言结构显现；\n3.(共5分) 对比古典与浪漫主义文本中废墟的叙述语调与情感立场；\n4.(共2分) 使用不少于两句原文引文进行语言细读。",
+      "total_score": 24
+  },
+  {
+      "question": "How do the narrative structures in *Water Margin* challenge the Confucian moral order they appear to defend?",
+      "judge_rules": "评判规则：\n1.(共12分) 举例分析人物（如宋江、武松）在道德模糊地带的行为逻辑；\n2.(共7分) 探讨“忠义”话语如何在集体暴力中转化为正当性包装；\n3.(共5分) 分析结构上的循环复仇与暴力升级如何削弱儒家因果秩序；\n4.(共2分) 需体现对文本道德张力的独立判断。",
+      "total_score": 26
+  },
+  {
+      "question": "In what ways does jazz dance’s emphasis on individual expression challenge the collective identity typically upheld by traditional dance forms?",
+      "judge_rules": "评判规则：\n1.(共8分) 分析爵士舞中个体性表达与传统舞蹈集体表现的差异；\n2.(共6分) 探讨爵士舞如何重塑舞者与观众之间的互动模式；\n3.(共8分) 援引身体表达学或社会舞蹈学理论进一步分析舞蹈中的个体性与集体性；\n4.(共2分) 用语需体现个体性与集体性张力的深度。",
+      "total_score": 24
+  },
+  {
+      "question": "How do abstract painters of the 20th century use repetition to generate meaning in the absence of narrative?",
+      "judge_rules": "评判规则：\n1.(共8分) 分析Judd或Reinhardt等艺术家作品中元素的机械重复；\n2.(共6分) 探讨重复在去表现化背景下的认知与情感意义；\n3.(共6分) 援引德勒兹《差异与重复》或相关现象学观点；\n4.(共2分) 表达需超越形式描述，达到抽象哲学层面。",
+      "total_score": 22
+  },
+  {
+      "question": "How do repeated images of mirrors in post-war cinema articulate fractured temporalities and identities?",
+      "judge_rules": "评判规则：\n1. 分析镜像如何打破线性时间或引发角色错位者得7分；\n2. 结合特定场景讨论镜子的构图功能与意识层表现者得6分；\n3. 若能引入时间哲学或主体理论进行交叉论证者再得6分；\n4. 举例需兼顾影像节奏与感官经验者可加1分。",
+      "total_score": 20
+  },
+  {
+      "question": "How do Renaissance artists' manipulations of signature placement reflect shifting perceptions of artistic authorship?",
+      "judge_rules": "评判规则：\n1. 若能联系具体画作分析署名方式与画面构图互动，得6分；\n2. 如能指出艺术家身份与署名位置的历史语境关系，得7分；\n3. 对艺术自我意识的隐喻性解读将获得额外思辨分3分；\n4. 忽略文化语境或仅罗列史实者不得高分。",
+      "total_score": 22
+  },
+  {
+      "question": "In what ways do illustrated margins in medieval manuscripts subvert or reinforce the main textual authority?",
+      "judge_rules": "评判规则：\n1. 对图像与文本之间的空间等级与权威结构有清晰识别者得6分；\n2. 引用实际图像例证，说明边缘图像的讽刺性、补充性或自律性，可得7分；\n3. 探讨读者视线如何在“正”与“副”之间流动构成诠释张力者得6分；\n4. 表述中如能体现对媒介史与感知理论的意识，可加2分。",
+      "total_score": 21
+  },
+  {
+      "question": "How does the use of myth in modern dance mediate between archetypal structure and bodily abstraction?",
+      "judge_rules": "评判规则：\n1.(共12分) 分析Martha Graham等编舞如何将神话转化为动作语言，至少要分析2个作品；\n2.(共8分) 探讨身体姿态如何承载象征结构而非再现故事；\n3.(共6分) 援引荣格或结构主义神话学深化解读；\n4.(共2分) 表达应体现“动作—象征”之间的转化逻辑。",
+      "total_score": 28
+  },
+  {
+      "question": "What aesthetic tensions arise when visual rhythm in abstract film disrupts narrative expectation?",
+      "judge_rules": "评判规则：\n1.(共8分) 举例分析Len Lye、Viking Eggeling等人的实验影像中节奏与图形的关系；\n2.(共8分) 探索“节奏—结构”如何替代故事逻辑作为意义载体；\n3.(共6分) 援引音乐学或运动图像理论阐释视觉-时间关系；\n4.(共2分) 表达需体现跨媒介转译能力。",
+      "total_score": 24
+  },
+  {
+      "question": "In what ways do ekphrastic poems manipulate the tension between linguistic description and visual presence?",
+      "judge_rules": "评判规则：\n1. 能呈现语言如何逼近、模拟或错位于视觉图像者得8分；\n2. 对诗中描述与画面之间的“缺失”或“过度”进行分析得7分；\n3. 引入媒介性或观看理论者可得5分；\n4. 若缺乏文本细读能力，无法体现多层次意象结构，将不得高分。",
+      "total_score": 20
+  },
+  {
+      "question": "What philosophical implications emerge from the architectural metaphors in Paul Klee’s pedagogical sketches?",
+      "judge_rules": "评判规则：\n1. 如能识别“地基”“结构”“裂缝”等隐喻背后形式哲学的指涉得6分；\n2. 对包豪斯思想及其教学理念中“构造”与“生长”概念进行延展者得8分；\n3. 引入他人与Klee不同视觉思维方式进行对照分析者额外得4分；\n4. 表述中若缺乏形象与概念的平衡，将扣2分。",
+      "total_score": 20
+  },
+  {
+      "question": "In what ways can typographic errors in manuscript drafts be reimagined as sonic illusions by the author?",
+      "judge_rules": "评判规则：\n1.(共8分) 明确举出作家（如乔伊斯、安妮·卡森）草稿中拼写误差被保留的实例，并分析其音感特征；\n2.(共6分) 探讨这些错字如何制造拟声效果或打破语言期待；\n3.(共6分) 结合语言解构主义或声音诗学理论展开；\n4.(共2分) 论述需展现出对拼写与发音之间创造性张力的理解。",
+      "total_score": 22
+  },
+  {
+      "question": "How can physical blemishes on book surfaces be mobilized in fictional narratives as paratextual plot devices?",
+      "judge_rules": "评判规则：\n1.(共9分) 指出如波拉尼奥或卡雷尔文本中书籍痕迹成为情节推进的具体片段；\n2.(共7分) 探讨这些非语言元素如何承载情感或指向缺失的事件；\n3.(共5分) 运用文本物性理论或扩展文本理论分析其叙事功能；\n4.(共2分) 语言需呈现对视觉元素与文本互动的敏感性。",
+      "total_score": 23
+  },
+  {
+      "question": "What narrative paradoxes are introduced when a never-seen character becomes the axis of conflicting testimonies?",
+      "judge_rules": "评判规则：\n1.(共9分) 分析如《理查三世》或《蝇王》中缺席角色的多重定义如何引发叙述不一致；\n2.(共7分) 探讨这一设定对文本真伪与记忆建构的影响；\n3.(共5分) 引用认知叙事学或“间接在场”理论增强说服力；\n4.(共2分) 表达应体现语境错位与心理张力的交织。",
+      "total_score": 23
+  },
+  {
+      "question": "How does asymmetry in peripheral reflections, such as goblet shadows or mirrored tableware, reshape the visual hierarchy of composition in still life painting?",
+      "judge_rules": "评判规则：\n1.(共7分) 分析至少两幅静物画中边缘倒影与主体之间的不对称关系，需具图像细节说明；\n2.(共6分) 探讨此类不对称如何打破画面中心性并引导观看路径；\n3.(共5分) 引入视觉平衡理论或图像结构学支持阐述；\n4.(共2分) 语言需展现空间层次感与观看动态。",
+      "total_score": 20
+  },
+  {
+      "question": "In what ways does partial distortion in reflected objects challenge the symmetry logic of realist painting?",
+      "judge_rules": "评判规则：\n1.(共8分) 举出如维米尔或夏尔丹画作中酒杯、镜面等倒影变形的实例；\n2.(共5分) 分析这些微妙扭曲如何破坏画面整齐性并制造心理不稳定感；\n3.(共5分) 引用视觉错觉、镜像美学等理论深化论证；\n4.(共2分) 语言需体现图像修辞与真实感错位的辨识能力。",
+      "total_score": 20
+  },
+  {
+      "question": "What ethical tensions arise when second-person narration immerses the reader into morally ambiguous actions?",
+      "judge_rules": "评判规则：\n1.(共7分) 举出如《你就是我的人》《Bright Lights, Big City》中主角行为与道德判断相冲突的叙述片段；\n2.(共6分) 分析读者在“被动代入”过程中的伦理困境；\n3.(共5分) 可引入伦理叙事学或参与式阅读理论扩展论述；\n4.(共2分) 表述需具批判性与代入反思双重维度。",
+      "total_score": 20
+  },
+  {
+      "question": "How do repeatedly referenced but absent characters function as structural anchors in modernist fiction?",
+      "judge_rules": "评判规则：\n1.(共8分) 举例说明如《尤利西斯》或《追忆似水年华》中未现身角色对主叙事的牵引作用；\n2.(共7分) 分析其如何在结构层面维系时间、记忆与情感的连贯性；\n3.(共5分) 运用叙事理论（如Bremond或Todorov）说明这种角色的稳定功能；\n4.(共2分) 表达应体现隐喻层面与结构功能的双重意识。", 
+      "total_score": 22
+  },
+  {
+      "question": "How do unconfirmed rumors contribute to a distributed authorship in collaborative or fragmented narratives?",
+      "judge_rules": "评判规则：\n1.(共7分) 指出如《云图》或《卡拉马佐夫兄弟》等作品中传言来源模糊的片段，分析其叙述权属不明的特征；\n2.(共6分) 探讨这种模糊性如何模糊作者与角色之间的信息边界；\n3.(共4分) 运用作者消散理论或互文性理论支撑观点；\n4.(共2分) 应体现出文本层次之间的角色分布意识。", 
+      "total_score": 19
+  },
+  {
+      "question": "What role does silence play in the dramaturgical composition of Beckett’s late stage works?",
+      "judge_rules": "评判规则：\n1.(共10分) 剖析《Endgame》《Not I》等作品中静默段落的时长与结构安排；\n2.(共7分) 探讨沉默如何构成舞台动作与语言之外的“表演层”；\n3.(共5分) 引用戏剧理论（如Grotowski或Lehmann）探讨表演与存在的关系；\n4.(共2分) 语言需具舞台感与思辨性。", 
+      "total_score": 24
+  },
+  {
+      "question": "What is the significance of intentionally misaligned shadows in realist portraiture for the interpretation of psychological depth?",
+      "judge_rules": "评判规则：\n1.(共10分) 选择19世纪至20世纪画作案例进行视觉分析，强调阴影偏移与内在情绪的错位关联；\n2.(共7分) 探讨光影的“非自然性”作为破坏写实框架的策略；\n3.(共5分) 引入视觉心理学或符号学工具揭示观者的感知偏差；\n4.(共2分) 分析语言需具绘画术语和形式审美意识。", 
+      "total_score": 24
+  },
+  {
+      "question": "How do chapterless narrative structures manipulate the temporality of memory in contemporary fiction?",
+      "judge_rules": "评判规则：\n1.(共8分) 举例分析如阿格妮丝·欧文、萨拉·沃特斯等作家无章体小说的节奏设计；\n2.(共9分) 探讨文本连续性与记忆断裂之间的结构映射；\n3.(共5分) 运用叙事时间理论（如Genette的顺序与频率分析）支持论述；\n4.(共2分) 语言需有节奏感与概念穿透力。", 
+      "total_score": 24
+  },
+  {
+      "question": "What aesthetic implications arise from the deliberate use of obsolete vocabulary in historical novels?",
+      "judge_rules": "评判规则：\n1.(共8分) 分析文本如何通过古词复活营造时代氛围；\n2.(共7分) 探讨语言“历史感”与审美距离之间的张力；\n3.(共5分) 引入语言演化或历史语言学视角支持论点；\n4.(共2分) 文字需展现出对词源与语感的精准掌控。", 
+      "total_score": 22
+  },
+  {
+      "question": "In what ways does the spatial orientation of inscriptions in ancient stele calligraphy construct an implicit hierarchy of viewing?",
+      "judge_rules": "评判规则：\n1.(共9分) 分析如《石门颂》《张迁碑》等实例中文字朝向与观者站位的关系；\n2.(共7分) 探讨碑面布局如何隐性规定阅读路径与顺序；\n3.(共6分) 运用空间诗学或书法社会学相关理论提升解释深度；\n4.(共2分) 应展现对物理空间与符号秩序之间互动机制的理解。", 
+      "total_score": 24
+  },
+  {
+      "question": "How does the lyrical register of literary advertisements in journals create stylistic interference with surrounding prose?",
+      "judge_rules": "评判规则：\n1.(共7分) 分析两篇文学期刊中具体广告内容的文体特征，如拟叙述句、诗化语法等；\n2.(共6分) 探讨这种语言风格如何混淆读者对正文与广告的边界判断；\n3.(共5分) 可结合界面设计或版面诗学理论进行说明；\n4.(共2分) 语言需体现出对期刊整体语境氛围的控制力。", 
+      "total_score": 20
+  },
+  {
+      "question": "How does the sonic architecture of Gothic cathedrals shape religious experience in liturgical art?",
+      "judge_rules": "评判规则：\n1. 可描述具体声音特征（如混响时间、频段分布）如何与仪式互动者得8分；\n2. 讨论建筑形式对宗教音响空间感的精神建构者得6分；\n3. 若引入听觉现象学或宗教美学理论者额外得5分；\n4. 语言中如体现跨感官联动和空间知觉，奖励2分。",
+      "total_score": 21
+  },
+  {
+      "question": "How does the visual language of De Chirico construct metaphysical unease through architectural emptiness?",
+      "judge_rules": "评判规则：\n1.(共8分) 结合其广场系列作品分析图像中的光影处理与线性透视错位；\n2.(共8分) 探讨空间的超现实氛围如何激发观者的“存在焦虑”；\n3.(共6分) 援引早期形而上画派的哲学背景如叔本华或尼采；\n4.(共2分) 用语需具心理地理感。",
+      "total_score": 24
+  },
+  {
+      "question": "In classical Chinese garden design, how does the concept of ‘wandering’ reframe the relationship between movement and contemplation?",
+      "judge_rules": "评分维度：\n①（12分）论述‘游’在园林语汇中的动态设计（如曲径、重门、障景）；\n②（6分）引入庄子、陶渊明等哲学文本理解‘游心’之意；\n③（4分）提出一个现代对比案例，如美术馆或城市空间；\n④（2分）文字需体现步移景异的思维路径。",
+      "total_score": 24
+  },
+  {
+      "question": "In what ways does calligraphic brushwork convey emotion beyond semantic content in Chinese literary culture?",
+      "judge_rules": "评判规则：\n1.(共10分) 分析“书如其人”理念下，书法笔势与情绪的隐性对应；\n2.(共6分) 举例说明王羲之、米芾等书法中的力度、转折与心理张力；\n3.(共4分) 讨论书法在文学文本传达中所起的非语言媒介作用；\n4.(共2分) 用词需避免仅技术化讲述，应体现书写行为的主观性。",
+      "total_score": 22
+  },
+  {
+      "question": "How did Bill Evans’ approach to voicing reshape harmonic perception in post-bop piano trios?",
+      "judge_rules": "评判规则：\n1.(共10分) 分析其根音省略、四度堆叠等和声技法对和弦色彩的重塑；\n2.(共6分) 探讨这些技法如何影响低音声部与鼓的互动结构；\n3.(共6分) 结合《Waltz for Debby》或《My Foolish Heart》等作品的具体段落分析其听感逻辑；\n4.(共2分) 用语需体现调性松动下的主观听觉体验。",
+      "total_score": 24
+  },
+  {
+      "question": "How does the open-ended world design in Metroidvania games shape temporal perception and player memory?",
+      "judge_rules": "评判规则：\n1.(共6分) 探讨非线性地图如何建构心理地理与回忆路径；\n2.(共8分) 分析空间解锁机制与“时间的延宕”之间的感知联系；\n3.(共12分) 举例《Hollow Knight》或《Super Metroid》等游戏中的区域设计，需要给出具体的地区名称以及对玩家的影响；\n4.(共2分) 避免叙述流程，应突出设计与认知的关系。",
+      "total_score": 28
+  },
+  {
+      "question": "What distinguishes modern fugue writing from its Baroque antecedents in terms of cognitive load and thematic fragmentation?",
+      "judge_rules": "评判规则：\n1.(共8分) 比较两时期在主题处理复杂度上的差异；\n2.(共8分) 讨论现代作品中断裂性与记忆负荷的关联；\n3.(共6分) 引入理论模型（如Schenker或认知音乐学）支持观点；\n4.(共4分) 语言应体现对听众处理机制的关注。",
+      "total_score": 26
+  },
+
+  {
+      "question": "What psychological mechanisms are activated by gated progression systems in Metroidvania design?",
+      "judge_rules": "评判规则：\n1.(共8分) 讨论“限制-赋权”循环对动机维持的影响；\n2.(共8分) 引入游戏心理学中“潜在记忆激活”或“挫折容忍度”等概念；\n3.(共6分) 举例分析具体关卡设计与反馈节奏；\n4.(共2分) 用词需兼顾技术结构与心理策略。",
+      "total_score": 24
+  },
+  {
+      "question": "How does mise-en-scène in film noir visually express existentialist themes?",
+      "judge_rules": "评判规则：\n1.(本部分共10分) 解析典型黑色电影如《第三个人》《夜长梦多》中光影运用、构图与布景对氛围的营造；\n2.(本部分共10分) 阐释这些视觉元素如何体现孤独、荒诞与宿命等存在主义核心议题；\n3.(本部分共6分) 引入萨特、加缪等存在主义文本对比分析，避免泛化使用；\n4.(本部分共2分) 语言表达应逻辑清晰、概念准确。",
+      "total_score": 28
+  },
+  {
+      "question": "How did the shift from oral to written traditions alter the conception of authorship in ancient and medieval societies?",
+      "judge_rules": "评判规则：\n1.(本部分共8分) 对比荷马史诗与中古修道士文本在创作归属上的差异；\n2.(本部分共8分) 探讨记忆文化与书写文化对“作者”观念的影响；\n3.(本部分共6分) 结合福柯或巴特的“作者之死”理论展开批评；\n4.(本部分共2分) 表达需具有历史维度与概念清晰度。",
+      "total_score": 24
+  },
+  {
+      "question": "How did the Gothic revival in 18th–19th century Europe reflect anxieties about modernity and historical memory?",
+      "judge_rules": "评判规则：\n1.(本部分共8分) 分析建筑、小说（如《奥特兰托城堡》）中的哥特元素复兴；\n2.(本部分共8分) 探讨复古美学如何回应工业化、世俗化时代的心理不安；\n3.(本部分共6分) 结合文化记忆理论解读哥特作为历史回响的形式；\n4.(本部分共2分) 表述需有文化批判视野与细节支撑。",
+      "total_score": 24
+  },
+  {
+      "question": "How does tempo fluctuation in progressive rock compositions subvert conventional rhythmic expectations?",
+      "judge_rules": "评判规则：\n1.(共8分) 分析Tool、Rush、Gentle Giant等乐队如何使用复拍子、频繁变速制造非对称节奏结构；\n2.(共8分) 探讨节奏不稳定对听觉预期、身体律动与情绪节奏的干扰或重构；\n3.(共6分) 使用音乐心理学或节奏认知研究支持论述；\n4.(共2分) 术语应规范，表达需具逻辑层次与原创视角。",
+      "total_score": 24
+  },
+  {
+      "question": "How does musical phrasing in classical guitar adapt to the limitations and affordances of the right-hand technique?",
+      "judge_rules": "评判规则：\n1.(共8分) 讨论包括tirando、apoyando、连弹等技术对旋律线条和动态变化的塑造作用；\n2.(共8分) 以索尔、阿尔贝尼斯、塔雷加等作品为例，分析具体乐句的技术实现与表达策略；\n3.(共6分) 提出对“乐句感知”在弹奏与听感之间关系的观点；\n4.(共2分) 术语需准确，文字表达需体现演奏者视角。",
+      "total_score": 24
+  },
+  {
+      "question": "How does the presence of pseudo-handwriting in print novels affect the reader’s sense of authorial intimacy?",
+      "judge_rules": "评判规则：\n1.(共9分) 分析文本中模拟笔迹（如涂改线、边注、字体类手写）对叙述亲密度的建构；\n2.(共6分) 探讨此类“亲笔再现”是否引发对作者真实性与角色界限的模糊；\n3.(共4分) 引入亲密修辞学、拟像理论或手写文化史者得分；\n4.(共1分) 思路需体现物理媒介对文本信任机制的影响认识。",
+      "total_score": 20
+  },
+  {
+      "question": "In what ways do slanted typographic constructions in political posters encode urgency or destabilize legibility?",
+      "judge_rules": "评判规则：\n1.(共7分) 提出倾斜字母如何构建视觉动势并制造紧张气氛；\n2.(共6分) 分析其对信息识别的刻意阻碍是否形成象征性干预手段；\n3.(共4分) 若能结合现代视觉宣传语法或符号学模型者得分；\n4.(共1分) 要求兼顾排版技术和视觉修辞的双重分析。",
+      "total_score": 18
+  }
+]
