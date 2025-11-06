@@ -12,13 +12,17 @@ The Comprehensive Reasoning Benchmark (CRB) dataset contains 205 professionally 
 ## Citation
 If you think this work is useful for your research, please cite the following paper.
 ```bibtex
-@misc{pan2025coatchainofassociatedthoughtsframeworkenhancing,
-      title={CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning}, 
-      author={Jianfeng Pan and Senyou Deng and Shaomang Huang},
-      year={2025},
-      eprint={2502.02390},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.02390}, 
+@inproceedings{pan-etal-2025-coat,
+    title = {{C}o{AT}: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning},
+    author = {Pan, Jianfeng and Deng, Senyou and Huang, Shaomang},
+    editor = {Christodoulopoulos, Christos and Chakraborty, Tanmoy and Rose, Carolyn  and Peng, Violet},
+    booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2025},
+    month = nov,
+    year = 2025,
+    address = {Suzhou, China},
+    publisher = {Association for Computational Linguistics},
+    note = {\url{https://aclanthology.org/2025.findings-emnlp.700/}},
+    pages = {13028--13045},
+    ISBN = {979-8-89176-335-7}
 }
 ```
